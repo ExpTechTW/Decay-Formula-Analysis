@@ -1,6 +1,6 @@
-Origin Time:2023/07/09 03:49:15
-Lon:121.54°E
-Lat:21.92°N
+﻿Origin Time:2023/07/09 03:49:15
+Lon:121.54簞E
+Lat:21.92簞N
 Depth:16.9km
 Mag:4.7
-Stacode=LAY ,Staname=蘭嶼 ,Stalon=121.56,Stalat=22.04,Dist= 13.24,BAZ=186.68,PGA(V)= 7.56,PGA(NS)= 30.02,PGA(EW)= 20.37,PGV(V)= 0.17,PGV(NS)= 1.02,PGV(EW)= 0.68,Int= 4級,PGA(SUM)= 28.13,PGV(SUM)= 1.04
+Stacode=LAY ,Staname=?剖飲 ,Stalon=121.56,Stalat=22.04,Dist= 13.24,BAZ=186.68,PGA(V)= 7.56,PGA(NS)= 30.02,PGA(EW)= 20.37,PGV(V)= 0.17,PGV(NS)= 1.02,PGV(EW)= 0.68,Int= 4蝝?PGA(SUM)= 28.13,PGV(SUM)= 1.04

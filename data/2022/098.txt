@@ -1,16 +1,16 @@
-Origin Time:2022/09/18 02:04:27
-Lon:121.30¢XE
-Lat:23.11¢XN
+ÔªøOrigin Time:2022/09/18 02:04:27
+Lon:121.30¬∞E
+Lat:23.11¬∞N
 Depth:18.6km
 Mag:4.3
-Stacode=ECS ,Staname=¶¿§W  ,Stalon=121.22,Stalat=23.10,Dist=   7.93,AZ=261.94,PGA(V)=   3.10,PGA(NS)=  14.03,PGA(EW)=   8.06,PGV(V)=   0.16,PGV(NS)=   0.49,PGV(EW)=   0.34,Int= 3Ø≈,PGA(SUM)=  14.04,PGV(SUM)=   0.52
-Stacode=CHK ,Staname=¶®•\  ,Stalon=121.37,Stalat=23.10,Dist=   7.95,AZ= 96.03,PGA(V)=   7.58,PGA(NS)=  19.65,PGA(EW)=  13.73,PGV(V)=   0.12,PGV(NS)=   0.25,PGV(EW)=   0.37,Int= 3Ø≈,PGA(SUM)=   8.99,PGV(SUM)=   0.40
-Stacode=FULB,Staname=¥I®Ω  ,Stalon=121.29,Stalat=23.20,Dist=  10.33,AZ=358.90,PGA(V)=   2.39,PGA(NS)=   7.22,PGA(EW)=   7.01,PGV(V)=   0.07,PGV(NS)=   0.23,PGV(EW)=   0.26,Int= 3Ø≈,PGA(SUM)=   8.64,PGV(SUM)=   0.28
-Stacode=EHD ,Staname=Æ¸∫›  ,Stalon=121.21,Stalat=23.15,Dist=  10.37,AZ=297.65,PGA(V)=   3.96,PGA(NS)=   3.79,PGA(EW)=   4.42,PGV(V)=   0.11,PGV(NS)=   0.12,PGV(EW)=   0.18,Int= 2Ø≈,PGA(SUM)=   4.05,PGV(SUM)=   0.19
-Stacode=EDH ,Staname=™F™e  ,Stalon=121.30,Stalat=22.97,Dist=  14.73,AZ=176.78,PGA(V)=   2.27,PGA(NS)=   4.12,PGA(EW)=   3.95,PGV(V)=   0.05,PGV(NS)=   0.12,PGV(EW)=   0.07,Int= 2Ø≈,PGA(SUM)=   3.30,PGV(SUM)=   0.13
-Stacode=EYUL,Staname=•…®Ω  ,Stalon=121.32,Stalat=23.35,Dist=  26.89,AZ=  5.08,PGA(V)=   1.24,PGA(NS)=   1.40,PGA(EW)=   1.27,PGV(V)=   0.03,PGV(NS)=   0.05,PGV(EW)=   0.04,Int= 1Ø≈,PGA(SUM)=   1.49,PGV(SUM)=   0.06
-Stacode=LONT,Staname=≥¿≥•  ,Stalon=121.13,Stalat=22.91,Dist=  27.83,AZ=217.67,PGA(V)=   0.86,PGA(NS)=   1.40,PGA(EW)=   1.55,PGV(V)=   0.02,PGV(NS)=   0.06,PGV(EW)=   0.05,Int= 1Ø≈,PGA(SUM)=   1.46,PGV(SUM)=   0.06
-Stacode=ECB ,Staname=™¯¿ÿ  ,Stalon=121.45,Stalat=23.32,Dist=  28.26,AZ= 34.24,PGA(V)=   1.11,PGA(NS)=   2.93,PGA(EW)=   2.88,PGV(V)=   0.03,PGV(NS)=   0.08,PGV(EW)=   0.10,Int= 2Ø≈,PGA(SUM)=   2.58,PGV(SUM)=   0.10
-Stacode=EHY ,Staname=¨ı∏≠  ,Stalon=121.33,Stalat=23.50,Dist=  44.27,AZ=  4.52,PGA(V)=   0.58,PGA(NS)=   1.39,PGA(EW)=   1.12,PGV(V)=   0.02,PGV(NS)=   0.03,PGV(EW)=   0.02,Int= 1Ø≈,PGA(SUM)=   1.22,PGV(SUM)=   0.03
-Stacode=STYH,Staname=ÆÁ∑Ω  ,Stalon=120.78,Stalat=23.18,Dist=  53.34,AZ=278.85,PGA(V)=   0.62,PGA(NS)=   1.50,PGA(EW)=   1.47,PGV(V)=   0.01,PGV(NS)=   0.03,PGV(EW)=   0.03,Int= 1Ø≈,PGA(SUM)=   1.21,PGV(SUM)=   0.03
-Stacode=YUS ,Staname=•…§s  ,Stalon=120.96,Stalat=23.49,Dist=  54.55,AZ=320.85,PGA(V)=   0.38,PGA(NS)=   0.76,PGA(EW)=   0.92,PGV(V)=   0.01,PGV(NS)=   0.03,PGV(EW)=   0.04,Int= 1Ø≈,PGA(SUM)=   0.89,PGV(SUM)=   0.04
+Stacode=ECS ,Staname=Ê±†‰∏ä  ,Stalon=121.22,Stalat=23.10,Dist=   7.93,AZ=261.94,PGA(V)=   3.10,PGA(NS)=  14.03,PGA(EW)=   8.06,PGV(V)=   0.16,PGV(NS)=   0.49,PGV(EW)=   0.34,Int= 3Á¥ö,PGA(SUM)=  14.04,PGV(SUM)=   0.52
+Stacode=CHK ,Staname=ÊàêÂäü  ,Stalon=121.37,Stalat=23.10,Dist=   7.95,AZ= 96.03,PGA(V)=   7.58,PGA(NS)=  19.65,PGA(EW)=  13.73,PGV(V)=   0.12,PGV(NS)=   0.25,PGV(EW)=   0.37,Int= 3Á¥ö,PGA(SUM)=   8.99,PGV(SUM)=   0.40
+Stacode=FULB,Staname=ÂØåÈáå  ,Stalon=121.29,Stalat=23.20,Dist=  10.33,AZ=358.90,PGA(V)=   2.39,PGA(NS)=   7.22,PGA(EW)=   7.01,PGV(V)=   0.07,PGV(NS)=   0.23,PGV(EW)=   0.26,Int= 3Á¥ö,PGA(SUM)=   8.64,PGV(SUM)=   0.28
+Stacode=EHD ,Staname=Êµ∑Á´Ø  ,Stalon=121.21,Stalat=23.15,Dist=  10.37,AZ=297.65,PGA(V)=   3.96,PGA(NS)=   3.79,PGA(EW)=   4.42,PGV(V)=   0.11,PGV(NS)=   0.12,PGV(EW)=   0.18,Int= 2Á¥ö,PGA(SUM)=   4.05,PGV(SUM)=   0.19
+Stacode=EDH ,Staname=Êù±Ê≤≥  ,Stalon=121.30,Stalat=22.97,Dist=  14.73,AZ=176.78,PGA(V)=   2.27,PGA(NS)=   4.12,PGA(EW)=   3.95,PGV(V)=   0.05,PGV(NS)=   0.12,PGV(EW)=   0.07,Int= 2Á¥ö,PGA(SUM)=   3.30,PGV(SUM)=   0.13
+Stacode=EYUL,Staname=ÁéâÈáå  ,Stalon=121.32,Stalat=23.35,Dist=  26.89,AZ=  5.08,PGA(V)=   1.24,PGA(NS)=   1.40,PGA(EW)=   1.27,PGV(V)=   0.03,PGV(NS)=   0.05,PGV(EW)=   0.04,Int= 1Á¥ö,PGA(SUM)=   1.49,PGV(SUM)=   0.06
+Stacode=LONT,Staname=ÈπøÈáé  ,Stalon=121.13,Stalat=22.91,Dist=  27.83,AZ=217.67,PGA(V)=   0.86,PGA(NS)=   1.40,PGA(EW)=   1.55,PGV(V)=   0.02,PGV(NS)=   0.06,PGV(EW)=   0.05,Int= 1Á¥ö,PGA(SUM)=   1.46,PGV(SUM)=   0.06
+Stacode=ECB ,Staname=Èï∑Êø±  ,Stalon=121.45,Stalat=23.32,Dist=  28.26,AZ= 34.24,PGA(V)=   1.11,PGA(NS)=   2.93,PGA(EW)=   2.88,PGV(V)=   0.03,PGV(NS)=   0.08,PGV(EW)=   0.10,Int= 2Á¥ö,PGA(SUM)=   2.58,PGV(SUM)=   0.10
+Stacode=EHY ,Staname=Á¥ÖËëâ  ,Stalon=121.33,Stalat=23.50,Dist=  44.27,AZ=  4.52,PGA(V)=   0.58,PGA(NS)=   1.39,PGA(EW)=   1.12,PGV(V)=   0.02,PGV(NS)=   0.03,PGV(EW)=   0.02,Int= 1Á¥ö,PGA(SUM)=   1.22,PGV(SUM)=   0.03
+Stacode=STYH,Staname=Ê°ÉÊ∫ê  ,Stalon=120.78,Stalat=23.18,Dist=  53.34,AZ=278.85,PGA(V)=   0.62,PGA(NS)=   1.50,PGA(EW)=   1.47,PGV(V)=   0.01,PGV(NS)=   0.03,PGV(EW)=   0.03,Int= 1Á¥ö,PGA(SUM)=   1.21,PGV(SUM)=   0.03
+Stacode=YUS ,Staname=ÁéâÂ±±  ,Stalon=120.96,Stalat=23.49,Dist=  54.55,AZ=320.85,PGA(V)=   0.38,PGA(NS)=   0.76,PGA(EW)=   0.92,PGV(V)=   0.01,PGV(NS)=   0.03,PGV(EW)=   0.04,Int= 1Á¥ö,PGA(SUM)=   0.89,PGV(SUM)=   0.04

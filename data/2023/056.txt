@@ -1,7 +1,7 @@
-Origin Time:2023/08/04 20:25:17
-Lon:121.64¢XE
-Lat:21.84¢XN
+ÔªøOrigin Time:2023/08/04 20:25:17
+Lon:121.64¬∞E
+Lat:21.84¬∞N
 Depth:21.4km
 Mag:5.0
-Stacode=LAY ,Staname=ƒı¿¨  ,Stalon=121.56,Stalat=22.04,Dist=  23.78,BAZ=159.12,PGA(V)=  13.33,PGA(NS)=  47.34,PGA(EW)=  66.26,PGV(V)=   0.52,PGV(NS)=   2.15,PGV(EW)=   2.86,Int= 4Ø≈,PGA(SUM)=  69.25,PGV(SUM)=   2.88
-Stacode=HEN ,Staname=´Ì¨K  ,Stalon=120.75,Stalat=22.00,Dist=  94.20,BAZ=101.33,PGA(V)=   0.24,PGA(NS)=   1.04,PGA(EW)=   0.60,PGV(V)=   0.02,PGV(NS)=   0.08,PGV(EW)=   0.08,Int= 1Ø≈,PGA(SUM)=   1.21,PGV(SUM)=   0.11
+Stacode=LAY ,Staname=Ëò≠Â∂º  ,Stalon=121.56,Stalat=22.04,Dist=  23.78,BAZ=159.12,PGA(V)=  13.33,PGA(NS)=  47.34,PGA(EW)=  66.26,PGV(V)=   0.52,PGV(NS)=   2.15,PGV(EW)=   2.86,Int= 4Á¥ö,PGA(SUM)=  69.25,PGV(SUM)=   2.88
+Stacode=HEN ,Staname=ÊÅÜÊò•  ,Stalon=120.75,Stalat=22.00,Dist=  94.20,BAZ=101.33,PGA(V)=   0.24,PGA(NS)=   1.04,PGA(EW)=   0.60,PGV(V)=   0.02,PGV(NS)=   0.08,PGV(EW)=   0.08,Int= 1Á¥ö,PGA(SUM)=   1.21,PGV(SUM)=   0.11
