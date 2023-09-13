@@ -1,0 +1,16 @@
+﻿Origin Time:2022/10/13 20:58:15
+Lon:121.55°E
+Lat:23.74°N
+Depth:8.1km
+Mag:4.5
+Stacode=EGC ,Staname=磯崎  ,Stalon=121.55,Stalat=23.71,Dist=   3.07,AZ=182.54,PGA(V)=  71.65,PGA(NS)= 121.12,PGA(EW)= 198.38,PGV(V)=   0.68,PGV(NS)=   1.62,PGV(EW)=   2.95,Int= 4級,PGA(SUM)=  99.40,PGV(SUM)=   2.98
+Stacode=SHUL,Staname=水璉  ,Stalon=121.56,Stalat=23.79,Dist=   5.93,AZ= 13.78,PGA(V)=  16.29,PGA(NS)=  35.67,PGA(EW)=  53.72,PGV(V)=   0.35,PGV(NS)=   0.72,PGV(EW)=   1.32,Int= 4級,PGA(SUM)=  47.79,PGV(SUM)=   1.45
+Stacode=ESL ,Staname=西林  ,Stalon=121.44,Stalat=23.81,Dist=  13.84,AZ=307.79,PGA(V)=   5.50,PGA(NS)=  12.97,PGA(EW)=  11.32,PGV(V)=   0.13,PGV(NS)=   0.23,PGV(EW)=   0.22,Int= 2級,PGA(SUM)=   5.55,PGV(SUM)=   0.25
+Stacode=EGFH,Staname=光復  ,Stalon=121.43,Stalat=23.67,Dist=  14.42,AZ=239.18,PGA(V)=   5.06,PGA(NS)=   4.67,PGA(EW)=   7.58,PGV(V)=   0.11,PGV(NS)=   0.12,PGV(EW)=   0.15,Int= 2級,PGA(SUM)=   5.63,PGV(SUM)=   0.18
+Stacode=EYL ,Staname=鹽寮  ,Stalon=121.60,Stalat=23.90,Dist=  19.40,AZ= 16.21,PGA(V)=   2.36,PGA(NS)=   6.86,PGA(EW)=   4.29,PGV(V)=   0.09,PGV(NS)=   0.29,PGV(EW)=   0.14,Int= 2級,PGA(SUM)=   7.24,PGV(SUM)=   0.30
+Stacode=ETM ,Staname=銅門  ,Stalon=121.49,Stalat=23.97,Dist=  26.10,AZ=347.37,PGA(V)=   2.54,PGA(NS)=   3.87,PGA(EW)=   5.64,PGV(V)=   0.08,PGV(NS)=   0.14,PGV(EW)=   0.14,Int= 2級,PGA(SUM)=   4.08,PGV(SUM)=   0.19
+Stacode=HWA ,Staname=花蓮市,Stalon=121.61,Stalat=23.98,Dist=  27.34,AZ= 13.94,PGA(V)=   1.68,PGA(NS)=   3.76,PGA(EW)=   4.47,PGV(V)=   0.08,PGV(NS)=   0.21,PGV(EW)=   0.24,Int= 2級,PGA(SUM)=   5.09,PGV(SUM)=   0.24
+Stacode=ETL ,Staname=太魯閣,Stalon=121.62,Stalat=24.16,Dist=  47.42,AZ=  9.16,PGA(V)=   0.28,PGA(NS)=   1.28,PGA(EW)=   1.05,PGV(V)=   0.01,PGV(NS)=   0.04,PGV(EW)=   0.02,Int= 1級,PGA(SUM)=   1.27,PGV(SUM)=   0.05
+Stacode=ETLH,Staname=西寶  ,Stalon=121.48,Stalat=24.21,Dist=  52.64,AZ=352.55,PGA(V)=   1.47,PGA(NS)=   2.01,PGA(EW)=   1.58,PGV(V)=   0.05,PGV(NS)=   0.09,PGV(EW)=   0.06,Int= 1級,PGA(SUM)=   2.13,PGV(SUM)=   0.10
+Stacode=WHF ,Staname=合歡山,Stalon=121.27,Stalat=24.14,Dist=  53.22,AZ=328.08,PGA(V)=   0.29,PGA(NS)=   0.86,PGA(EW)=   1.01,PGV(V)=   0.02,PGV(NS)=   0.04,PGV(EW)=   0.04,Int= 1級,PGA(SUM)=   1.18,PGV(SUM)=   0.05
+Stacode=YUS ,Staname=玉山  ,Stalon=120.96,Stalat=23.49,Dist=  66.16,AZ=245.45,PGA(V)=   0.31,PGA(NS)=   0.75,PGA(EW)=   1.00,PGV(V)=   0.02,PGV(NS)=   0.04,PGV(EW)=   0.05,Int= 1級,PGA(SUM)=   1.00,PGV(SUM)=   0.05

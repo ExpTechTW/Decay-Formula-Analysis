@@ -1,0 +1,16 @@
+Origin Time:2021/08/06 20:28:52
+Lon:121.29°E
+Lat:23.16°N
+Depth:6.1km
+Mag:4.2
+Stacode=FULB,Staname=富里  ,Stalon=121.29,Stalat=23.20,Dist=   4.36,AZ=188.42,PGA(V)=  20.53,PGA(NS)=  83.48,PGA(EW)=  51.29,PGV(V)=   0.60,PGV(NS)=   2.30,PGV(EW)=   2.11,Int= 4級,PGA(SUM)=  76.79,PGV(SUM)=   2.48
+Stacode=EHD ,Staname=海端  ,Stalon=121.21,Stalat=23.15,Dist=   8.44,AZ= 81.80,PGA(V)=  19.85,PGA(NS)=  38.36,PGA(EW)=  60.26,PGV(V)=   0.43,PGV(NS)=   1.08,PGV(EW)=   1.12,Int= 4級,PGA(SUM)=  62.28,PGV(SUM)=   1.57
+Stacode=ECS ,Staname=池上  ,Stalon=121.22,Stalat=23.10,Dist=  10.00,AZ= 44.53,PGA(V)=   5.79,PGA(NS)=  14.91,PGA(EW)=  11.62,PGV(V)=   0.31,PGV(NS)=   0.48,PGV(EW)=   0.37,Int= 3級,PGA(SUM)=  14.10,PGV(SUM)=   0.49
+Stacode=CHK ,Staname=成功  ,Stalon=121.37,Stalat=23.10,Dist=  11.10,AZ=308.10,PGA(V)=   4.06,PGA(NS)=   7.56,PGA(EW)=  13.01,PGV(V)=   0.18,PGV(NS)=   0.36,PGV(EW)=   0.53,Int= 3級,PGA(SUM)=  12.60,PGV(SUM)=   0.63
+Stacode=EDH ,Staname=東河  ,Stalon=121.30,Stalat=22.97,Dist=  20.79,AZ=355.41,PGA(V)=   1.22,PGA(NS)=   1.83,PGA(EW)=   1.53,PGV(V)=   0.04,PGV(NS)=   0.11,PGV(EW)=   0.06,Int= 1級,PGA(SUM)=   1.86,PGV(SUM)=   0.11
+Stacode=EYUL,Staname=玉里  ,Stalon=121.32,Stalat=23.35,Dist=  21.02,AZ=188.80,PGA(V)=   1.07,PGA(NS)=   1.97,PGA(EW)=   2.12,PGV(V)=   0.07,PGV(NS)=   0.09,PGV(EW)=   0.09,Int= 1級,PGA(SUM)=   2.03,PGV(SUM)=   0.09
+Stacode=ECB ,Staname=長濱  ,Stalon=121.45,Stalat=23.32,Dist=  24.10,AZ=223.97,PGA(V)=   1.46,PGA(NS)=   2.23,PGA(EW)=   2.70,PGV(V)=   0.07,PGV(NS)=   0.09,PGV(EW)=   0.16,Int= 2級,PGA(SUM)=   2.77,PGV(SUM)=   0.16
+Stacode=ELD ,Staname=利稻  ,Stalon=121.03,Stalat=23.19,Dist=  27.06,AZ= 96.45,PGA(V)=   4.73,PGA(NS)=   4.99,PGA(EW)=   3.95,PGV(V)=   0.15,PGV(NS)=   0.15,PGV(EW)=   0.14,Int= 2級,PGA(SUM)=   5.98,PGV(SUM)=   0.21
+Stacode=YUS ,Staname=玉山  ,Stalon=120.96,Stalat=23.49,Dist=  49.45,AZ=137.20,PGA(V)=   0.77,PGA(NS)=   1.09,PGA(EW)=   1.15,PGV(V)=   0.02,PGV(NS)=   0.03,PGV(EW)=   0.04,Int= 1級,PGA(SUM)=   1.24,PGV(SUM)=   0.05
+Stacode=LDU ,Staname=綠島  ,Stalon=121.47,Stalat=22.67,Dist=  56.99,AZ=340.92,PGA(V)=   0.50,PGA(NS)=   1.16,PGA(EW)=   0.86,PGV(V)=   0.02,PGV(NS)=   0.05,PGV(EW)=   0.05,Int= 1級,PGA(SUM)=   1.12,PGV(SUM)=   0.06
+Stacode=ALS ,Staname=阿里山,Stalon=120.81,Stalat=23.51,Dist=  61.99,AZ=128.53,PGA(V)=   0.23,PGA(NS)=   0.72,PGA(EW)=   0.79,PGV(V)=   0.01,PGV(NS)=   0.02,PGV(EW)=   0.02,Int= 1級,PGA(SUM)=   0.96,PGV(SUM)=   0.03

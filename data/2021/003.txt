@@ -1,0 +1,12 @@
+Origin Time:2021/01/07 14:01:30
+Lon:121.89°E
+Lat:24.43°N
+Depth:19.9km
+Mag:4.1
+Stacode=ENA ,Staname=南澳  ,Stalon=121.75,Stalat=24.43,Dist=  14.35,AZ= 89.62,PGA(V)=   8.56,PGA(NS)=  21.14,PGA(EW)=  32.65,PGV(V)=   0.10,PGV(NS)=   0.38,PGV(EW)=   0.34,Int= 3級,PGA(SUM)=  12.55,PGV(SUM)=   0.45
+Stacode=EAH ,Staname=澳花  ,Stalon=121.74,Stalat=24.33,Dist=  18.78,AZ= 54.75,PGA(V)=   2.07,PGA(NS)=   3.61,PGA(EW)=   3.78,PGV(V)=   0.04,PGV(NS)=   0.08,PGV(EW)=   0.10,Int= 2級,PGA(SUM)=   2.92,PGV(SUM)=   0.10
+Stacode=EHP ,Staname=和平  ,Stalon=121.75,Stalat=24.31,Dist=  19.54,AZ= 47.28,PGA(V)=   3.09,PGA(NS)=   4.30,PGA(EW)=   4.90,PGV(V)=   0.07,PGV(NS)=   0.13,PGV(EW)=   0.10,Int= 2級,PGA(SUM)=   4.02,PGV(SUM)=   0.13
+Stacode=TWC ,Staname=蘇澳  ,Stalon=121.86,Stalat=24.61,Dist=  20.30,AZ=171.09,PGA(V)=   1.11,PGA(NS)=   2.19,PGA(EW)=   1.97,PGV(V)=   0.02,PGV(NS)=   0.04,PGV(EW)=   0.04,Int= 1級,PGA(SUM)=   1.84,PGV(SUM)=   0.05
+Stacode=ETL ,Staname=太魯閣,Stalon=121.62,Stalat=24.16,Dist=  40.31,AZ= 42.35,PGA(V)=   0.64,PGA(NS)=   1.90,PGA(EW)=   1.86,PGV(V)=   0.01,PGV(NS)=   0.04,PGV(EW)=   0.03,Int= 1級,PGA(SUM)=   1.40,PGV(SUM)=   0.04
+Stacode=ETLH,Staname=西寶  ,Stalon=121.48,Stalat=24.21,Dist=  48.13,AZ= 59.53,PGA(V)=   0.96,PGA(NS)=   1.14,PGA(EW)=   0.97,PGV(V)=   0.02,PGV(NS)=   0.04,PGV(EW)=   0.02,Int= 1級,PGA(SUM)=   0.88,PGV(SUM)=   0.04
+Stacode=NNS ,Staname=南山  ,Stalon=121.38,Stalat=24.44,Dist=  51.63,AZ= 91.26,PGA(V)=   0.28,PGA(NS)=   1.14,PGA(EW)=   1.30,PGV(V)=   0.01,PGV(NS)=   0.05,PGV(EW)=   0.04,Int= 1級,PGA(SUM)=   1.10,PGV(SUM)=   0.05

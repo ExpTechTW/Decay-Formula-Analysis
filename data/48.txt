@@ -1,6 +1,0 @@
-Origin Time:2023/07/09 09:53:47
-Lon:121.63°E
-Lat:21.88°N
-Depth:20.3km
-Mag:4.5
-Stacode=LAY ,Staname=蘭嶼 ,Stalon=121.56,Stalat=22.04,Dist= 18.95,BAZ=156.25,PGA(V)= 10.47,PGA(NS)= 43.54,PGA(EW)= 31.44,PGV(V)= 0.26,PGV(NS)= 1.23,PGV(EW)= 0.80,Int= 4級,PGA(SUM)= 33.54,PGV(SUM)= 1.29

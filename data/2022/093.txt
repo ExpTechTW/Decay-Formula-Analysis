@@ -1,0 +1,16 @@
+﻿Origin Time:2022/09/17 23:24:34
+Lon:121.23°E
+Lat:23.12°N
+Depth:9.9km
+Mag:4.1
+Stacode=ECS ,Staname=池上  ,Stalon=121.22,Stalat=23.10,Dist=   3.32,AZ=192.73,PGA(V)=  22.94,PGA(NS)=  26.97,PGA(EW)=  22.59,PGV(V)=   0.46,PGV(NS)=   0.60,PGV(EW)=   0.71,Int= 4級,PGA(SUM)=  28.43,PGV(SUM)=   0.79
+Stacode=EHD ,Staname=海端  ,Stalon=121.21,Stalat=23.15,Dist=   3.40,AZ=322.41,PGA(V)=  21.10,PGA(NS)=  25.68,PGA(EW)=  39.21,PGV(V)=   0.46,PGV(NS)=   0.77,PGV(EW)=   0.85,Int= 4級,PGA(SUM)=  36.80,PGV(SUM)=   0.92
+Stacode=FULB,Staname=富里  ,Stalon=121.29,Stalat=23.20,Dist=  10.73,AZ= 40.13,PGA(V)=   4.97,PGA(NS)=  21.33,PGA(EW)=  26.14,PGV(V)=   0.16,PGV(NS)=   0.57,PGV(EW)=   0.70,Int= 4級,PGA(SUM)=  28.85,PGV(SUM)=   0.88
+Stacode=CHK ,Staname=成功  ,Stalon=121.37,Stalat=23.10,Dist=  15.31,AZ=101.14,PGA(V)=   3.37,PGA(NS)=   5.37,PGA(EW)=   7.30,PGV(V)=   0.07,PGV(NS)=   0.12,PGV(EW)=   0.18,Int= 2級,PGA(SUM)=   6.97,PGV(SUM)=   0.20
+Stacode=EDH ,Staname=東河  ,Stalon=121.30,Stalat=22.97,Dist=  18.61,AZ=154.72,PGA(V)=   1.24,PGA(NS)=   2.36,PGA(EW)=   4.49,PGV(V)=   0.04,PGV(NS)=   0.09,PGV(EW)=   0.14,Int= 2級,PGA(SUM)=   4.36,PGV(SUM)=   0.16
+Stacode=LONT,Staname=鹿野  ,Stalon=121.13,Stalat=22.91,Dist=  26.10,AZ=202.26,PGA(V)=   2.11,PGA(NS)=   1.69,PGA(EW)=   2.39,PGV(V)=   0.05,PGV(NS)=   0.07,PGV(EW)=   0.10,Int= 2級,PGA(SUM)=   2.63,PGV(SUM)=   0.11
+Stacode=EYUL,Staname=玉里  ,Stalon=121.32,Stalat=23.35,Dist=  26.43,AZ= 21.05,PGA(V)=   0.80,PGA(NS)=   0.76,PGA(EW)=   1.09,PGV(V)=   0.02,PGV(NS)=   0.04,PGV(EW)=   0.03,Int= 1級,PGA(SUM)=   1.03,PGV(SUM)=   0.04
+Stacode=STYH,Staname=桃源  ,Stalon=120.78,Stalat=23.18,Dist=  45.99,AZ=277.60,PGA(V)=   2.10,PGA(NS)=   1.72,PGA(EW)=   2.29,PGV(V)=   0.04,PGV(NS)=   0.03,PGV(EW)=   0.05,Int= 1級,PGA(SUM)=   2.11,PGV(SUM)=   0.06
+Stacode=YUS ,Staname=玉山  ,Stalon=120.96,Stalat=23.49,Dist=  48.59,AZ=325.77,PGA(V)=   0.64,PGA(NS)=   0.57,PGA(EW)=   1.03,PGV(V)=   0.02,PGV(NS)=   0.02,PGV(EW)=   0.03,Int= 1級,PGA(SUM)=   1.04,PGV(SUM)=   0.03
+Stacode=WSL ,Staname=水林  ,Stalon=120.23,Stalat=23.52,Dist= 111.22,AZ=293.35,PGA(V)=   0.15,PGA(NS)=   0.82,PGA(EW)=   0.53,PGV(V)=   0.00,PGV(NS)=   0.04,PGV(EW)=   0.02,Int= 1級,PGA(SUM)=   0.88,PGV(SUM)=   0.04
+Stacode=WSF ,Staname=四湖  ,Stalon=120.23,Stalat=23.64,Dist= 116.58,AZ=299.10,PGA(V)=   0.29,PGA(NS)=   1.06,PGA(EW)=   0.64,PGV(V)=   0.01,PGV(NS)=   0.04,PGV(EW)=   0.02,Int= 1級,PGA(SUM)=   1.15,PGV(SUM)=   0.04

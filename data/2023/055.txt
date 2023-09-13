@@ -1,0 +1,8 @@
+﻿Origin Time:2023/08/04 20:22:12
+Lon:121.64°E
+Lat:21.84°N
+Depth:20.3km
+Mag:5.0
+Stacode=LAY ,Staname=蘭嶼  ,Stalon=121.56,Stalat=22.04,Dist=  23.60,BAZ=158.63,PGA(V)=  12.44,PGA(NS)=  54.74,PGA(EW)=  31.76,PGV(V)=   0.35,PGV(NS)=   1.75,PGV(EW)=   0.91,Int= 4級,PGA(SUM)=  51.77,PGV(SUM)=   1.89
+Stacode=SMS ,Staname=滿州  ,Stalon=120.84,Stalat=22.02,Dist=  85.46,BAZ=103.61,PGA(V)=   0.29,PGA(NS)=   0.94,PGA(EW)=   0.79,PGV(V)=   0.03,PGV(NS)=   0.03,PGV(EW)=   0.03,Int= 1級,PGA(SUM)=   0.97,PGV(SUM)=   0.04
+Stacode=HEN ,Staname=恆春  ,Stalon=120.75,Stalat=22.00,Dist=  94.27,BAZ=101.17,PGA(V)=   0.32,PGA(NS)=   0.78,PGA(EW)=   0.82,PGV(V)=   0.03,PGV(NS)=   0.08,PGV(EW)=   0.06,Int= 1級,PGA(SUM)=   0.85,PGV(SUM)=   0.08

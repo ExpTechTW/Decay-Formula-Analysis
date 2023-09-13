@@ -1,0 +1,12 @@
+Origin Time:2021/01/28 16:05:04
+Lon:120.97°E
+Lat:22.54°N
+Depth:9.0km
+Mag:4.2
+Stacode=ECL ,Staname=太麻里,Stalon=120.96,Stalat=22.60,Dist=   6.41,AZ=168.91,PGA(V)=  19.55,PGA(NS)=  51.88,PGA(EW)=  57.54,PGV(V)=   0.39,PGV(NS)=   1.07,PGV(EW)=   1.25,Int= 4級,PGA(SUM)=  44.24,PGV(SUM)=   1.27
+Stacode=EAS ,Staname=達仁  ,Stalon=120.86,Stalat=22.38,Dist=  21.20,AZ= 34.81,PGA(V)=   0.90,PGA(NS)=   1.65,PGA(EW)=   1.17,PGV(V)=   0.02,PGV(NS)=   0.04,PGV(EW)=   0.04,Int= 1級,PGA(SUM)=   1.32,PGV(SUM)=   0.05
+Stacode=TAWH,Staname=大武  ,Stalon=120.89,Stalat=22.34,Dist=  23.80,AZ= 21.88,PGA(V)=   0.71,PGA(NS)=   1.88,PGA(EW)=   1.55,PGV(V)=   0.02,PGV(NS)=   0.05,PGV(EW)=   0.04,Int= 1級,PGA(SUM)=   1.82,PGV(SUM)=   0.05
+Stacode=TTN ,Staname=臺東市,Stalon=121.15,Stalat=22.75,Dist=  30.05,AZ=218.21,PGA(V)=   0.82,PGA(NS)=   1.86,PGA(EW)=   1.22,PGV(V)=   0.03,PGV(NS)=   0.09,PGV(EW)=   0.05,Int= 1級,PGA(SUM)=   2.15,PGV(SUM)=   0.10
+Stacode=TWG ,Staname=卑南  ,Stalon=121.08,Stalat=22.82,Dist=  32.71,AZ=199.43,PGA(V)=   1.44,PGA(NS)=   2.52,PGA(EW)=   2.35,PGV(V)=   0.05,PGV(NS)=   0.08,PGV(EW)=   0.10,Int= 2級,PGA(SUM)=   2.83,PGV(SUM)=   0.11
+Stacode=SSD ,Staname=三地門,Stalon=120.64,Stalat=22.74,Dist=  41.14,AZ=123.51,PGA(V)=   0.72,PGA(NS)=   0.92,PGA(EW)=   0.93,PGV(V)=   0.03,PGV(NS)=   0.03,PGV(EW)=   0.02,Int= 1級,PGA(SUM)=   0.86,PGV(SUM)=   0.04
+Stacode=LONT,Staname=鹿野  ,Stalon=121.13,Stalat=22.91,Dist=  43.71,AZ=201.49,PGA(V)=   0.57,PGA(NS)=   0.86,PGA(EW)=   0.87,PGV(V)=   0.02,PGV(NS)=   0.03,PGV(EW)=   0.03,Int= 1級,PGA(SUM)=   0.96,PGV(SUM)=   0.04
