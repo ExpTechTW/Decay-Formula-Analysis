@@ -1,67 +1,67 @@
-﻿Origin Time:2023/08/16 01:09:18
-Lon:121.67簞E
-Lat:24.17簞N
+Origin Time:2023/08/16 01:09:18
+Lon:121.67°E
+Lat:24.17°N
 Depth:27.7km
 Mag:4.8
-Stacode=ETL ,Staname=憭芷陌??Stalon=121.62,Stalat=24.16,Dist= 5.19,BAZ= 80.63,PGA(V)= 8.12,PGA(NS)= 15.52,PGA(EW)= 10.51,PGV(V)= 0.11,PGV(NS)= 0.32,PGV(EW)= 0.24,Int= 3蝝?PGA(SUM)= 11.10,PGV(SUM)= 0.40
-Stacode=TWD ,Staname=蝘??,Stalon=121.60,Stalat=24.08,Dist= 11.74,BAZ= 36.57,PGA(V)= 3.44,PGA(NS)= 4.07,PGA(EW)= 4.08,PGV(V)= 0.08,PGV(NS)= 0.13,PGV(EW)= 0.11,Int= 2蝝?PGA(SUM)= 4.04,PGV(SUM)= 0.15
-Stacode=EHP ,Staname=?像 ,Stalon=121.75,Stalat=24.31,Dist= 17.59,BAZ=206.05,PGA(V)= 9.22,PGA(NS)= 10.68,PGA(EW)= 9.88,PGV(V)= 0.18,PGV(NS)= 0.29,PGV(EW)= 0.26,Int= 3蝝?PGA(SUM)= 12.12,PGV(SUM)= 0.35
-Stacode=EAH ,Staname=瞉唾 ,Stalon=121.74,Stalat=24.33,Dist= 19.25,BAZ=200.36,PGA(V)= 6.08,PGA(NS)= 7.08,PGA(EW)= 6.40,PGV(V)= 0.14,PGV(NS)= 0.40,PGV(EW)= 0.20,Int= 2蝝?PGA(SUM)= 6.62,PGV(SUM)= 0.41
-Stacode=ETLH,Staname=镼踹窄 ,Stalon=121.48,Stalat=24.21,Dist= 19.98,BAZ=102.96,PGA(V)= 16.43,PGA(NS)= 19.98,PGA(EW)= 23.84,PGV(V)= 0.37,PGV(NS)= 0.34,PGV(EW)= 0.32,Int= 3蝝?PGA(SUM)= 18.95,PGV(SUM)= 0.47
-Stacode=HWA ,Staname=?梯撣?Stalon=121.61,Stalat=23.98,Dist= 22.05,BAZ= 16.02,PGA(V)= 2.49,PGA(NS)= 4.35,PGA(EW)= 5.12,PGV(V)= 0.08,PGV(NS)= 0.18,PGV(EW)= 0.21,Int= 2蝝?PGA(SUM)= 5.05,PGV(SUM)= 0.21
-Stacode=ETM ,Staname=?? ,Stalon=121.49,Stalat=23.97,Dist= 28.81,BAZ= 39.59,PGA(V)= 3.54,PGA(NS)= 6.12,PGA(EW)= 6.03,PGV(V)= 0.13,PGV(NS)= 0.13,PGV(EW)= 0.12,Int= 2蝝?PGA(SUM)= 4.67,PGV(SUM)= 0.15
-Stacode=ENA ,Staname=?噫 ,Stalon=121.75,Stalat=24.43,Dist= 29.76,BAZ=194.96,PGA(V)= 7.70,PGA(NS)= 29.51,PGA(EW)= 16.30,PGV(V)= 0.14,PGV(NS)= 0.42,PGV(EW)= 0.29,Int= 3蝝?PGA(SUM)= 19.49,PGV(SUM)= 0.44
-Stacode=EYL ,Staname=暽賢祚 ,Stalon=121.60,Stalat=23.90,Dist= 30.01,BAZ= 14.05,PGA(V)= 1.94,PGA(NS)= 3.91,PGA(EW)= 5.14,PGV(V)= 0.07,PGV(NS)= 0.15,PGV(EW)= 0.18,Int= 2蝝?PGA(SUM)= 5.06,PGV(SUM)= 0.19
-Stacode=EWT ,Staname=甇血? ,Stalon=121.78,Stalat=24.45,Dist= 32.65,BAZ=199.04,PGA(V)= 4.76,PGA(NS)= 8.73,PGA(EW)= 8.49,PGV(V)= 0.13,PGV(NS)= 0.17,PGV(EW)= 0.18,Int= 2蝝?PGA(SUM)= 6.04,PGV(SUM)= 0.22
-Stacode=WHF ,Staname=?迭撅?Stalon=121.27,Stalat=24.14,Dist= 40.81,BAZ= 86.43,PGA(V)= 1.96,PGA(NS)= 5.86,PGA(EW)= 6.55,PGV(V)= 0.08,PGV(NS)= 0.19,PGV(EW)= 0.20,Int= 2蝝?PGA(SUM)= 7.03,PGV(SUM)= 0.26
-Stacode=NNS ,Staname=?控 ,Stalon=121.38,Stalat=24.44,Dist= 42.19,BAZ=135.37,PGA(V)= 1.86,PGA(NS)= 6.03,PGA(EW)= 4.54,PGV(V)= 0.04,PGV(NS)= 0.13,PGV(EW)= 0.15,Int= 2蝝?PGA(SUM)= 5.11,PGV(SUM)= 0.15
-Stacode=SHUL,Staname=瘞渡? ,Stalon=121.56,Stalat=23.79,Dist= 43.44,BAZ= 15.02,PGA(V)= 1.00,PGA(NS)= 1.79,PGA(EW)= 2.07,PGV(V)= 0.04,PGV(NS)= 0.07,PGV(EW)= 0.10,Int= 1蝝?PGA(SUM)= 2.15,PGV(SUM)= 0.11
-Stacode=FUSS,Staname=璇典控 ,Stalon=121.24,Stalat=24.25,Dist= 44.55,BAZ=101.66,PGA(V)= 1.42,PGA(NS)= 2.99,PGA(EW)= 2.08,PGV(V)= 0.06,PGV(NS)= 0.12,PGV(EW)= 0.08,Int= 2蝝?PGA(SUM)= 3.15,PGV(SUM)= 0.13
-Stacode=ESL ,Staname=镼踵? ,Stalon=121.44,Stalat=23.81,Dist= 45.78,BAZ= 31.00,PGA(V)= 1.38,PGA(NS)= 2.74,PGA(EW)= 4.44,PGV(V)= 0.04,PGV(NS)= 0.06,PGV(EW)= 0.07,Int= 1蝝?PGA(SUM)= 2.04,PGV(SUM)= 0.07
-Stacode=NDT ,Staname=憭批? ,Stalon=121.51,Stalat=24.60,Dist= 50.98,BAZ=161.37,PGA(V)= 0.62,PGA(NS)= 0.89,PGA(EW)= 0.86,PGV(V)= 0.02,PGV(NS)= 0.03,PGV(EW)= 0.03,Int= 1蝝?PGA(SUM)= 0.94,PGV(SUM)= 0.04
-Stacode=NDS ,Staname=?砍控 ,Stalon=121.72,Stalat=24.63,Dist= 51.99,BAZ=184.86,PGA(V)= 1.38,PGA(NS)= 1.34,PGA(EW)= 1.91,PGV(V)= 0.04,PGV(NS)= 0.05,PGV(EW)= 0.07,Int= 1蝝?PGA(SUM)= 1.85,PGV(SUM)= 0.07
-Stacode=EGC ,Staname=蝤臬? ,Stalon=121.55,Stalat=23.71,Dist= 52.37,BAZ= 14.14,PGA(V)= 0.91,PGA(NS)= 3.73,PGA(EW)= 1.81,PGV(V)= 0.03,PGV(NS)= 0.10,PGV(EW)= 0.07,Int= 2蝝?PGA(SUM)= 3.68,PGV(SUM)= 0.10
-Stacode=TWC ,Staname=?噫 ,Stalon=121.86,Stalat=24.61,Dist= 52.48,BAZ=201.15,PGA(V)= 1.06,PGA(NS)= 1.79,PGA(EW)= 2.16,PGV(V)= 0.03,PGV(NS)= 0.04,PGV(EW)= 0.06,Int= 1蝝?PGA(SUM)= 2.22,PGV(SUM)= 0.06
-Stacode=TWT ,Staname=敺瑕 ,Stalon=121.16,Stalat=24.25,Dist= 52.77,BAZ=100.05,PGA(V)= 1.74,PGA(NS)= 2.67,PGA(EW)= 1.69,PGV(V)= 0.07,PGV(NS)= 0.14,PGV(EW)= 0.08,Int= 2蝝?PGA(SUM)= 2.78,PGV(SUM)= 0.16
-Stacode=ENT ,Staname=?洛 ,Stalon=121.57,Stalat=24.64,Dist= 53.19,BAZ=169.05,PGA(V)= 1.11,PGA(NS)= 4.82,PGA(EW)= 3.46,PGV(V)= 0.03,PGV(NS)= 0.12,PGV(EW)= 0.07,Int= 2蝝?PGA(SUM)= 4.22,PGV(SUM)= 0.13
-Stacode=EGFH,Staname=?儔 ,Stalon=121.43,Stalat=23.67,Dist= 60.51,BAZ= 24.43,PGA(V)= 1.49,PGA(NS)= 1.44,PGA(EW)= 1.93,PGV(V)= 0.03,PGV(NS)= 0.04,PGV(EW)= 0.05,Int= 1蝝?PGA(SUM)= 1.82,PGV(SUM)= 0.05
-Stacode=TWE ,Staname=?批? ,Stalon=121.68,Stalat=24.72,Dist= 61.12,BAZ=180.91,PGA(V)= 0.47,PGA(NS)= 0.78,PGA(EW)= 1.09,PGV(V)= 0.02,PGV(NS)= 0.03,PGV(EW)= 0.04,Int= 1蝝?PGA(SUM)= 1.04,PGV(SUM)= 0.04
-Stacode=NSK ,Staname=銝? ,Stalon=121.37,Stalat=24.67,Dist= 64.23,BAZ=151.04,PGA(V)= 0.37,PGA(NS)= 0.71,PGA(EW)= 1.24,PGV(V)= 0.02,PGV(NS)= 0.02,PGV(EW)= 0.03,Int= 1蝝?PGA(SUM)= 0.87,PGV(SUM)= 0.03
-Stacode=ILA ,Staname=摰撣?Stalon=121.76,Stalat=24.76,Dist= 66.71,BAZ=187.24,PGA(V)= 0.68,PGA(NS)= 0.97,PGA(EW)= 0.99,PGV(V)= 0.02,PGV(NS)= 0.04,PGV(EW)= 0.04,Int= 1蝝?PGA(SUM)= 1.10,PGV(SUM)= 0.06
-Stacode=WPL ,Staname=?? ,Stalon=120.96,Stalat=24.01,Dist= 74.77,BAZ= 76.82,PGA(V)= 0.92,PGA(NS)= 0.98,PGA(EW)= 0.80,PGV(V)= 0.04,PGV(NS)= 0.04,PGV(EW)= 0.03,Int= 1蝝?PGA(SUM)= 1.14,PGV(SUM)= 0.05
-Stacode=WHP ,Staname=???Stalon=120.95,Stalat=24.28,Dist= 74.91,BAZ= 99.48,PGA(V)= 0.89,PGA(NS)= 1.16,PGA(EW)= 1.08,PGV(V)= 0.06,PGV(NS)= 0.08,PGV(EW)= 0.11,Int= 1蝝?PGA(SUM)= 1.34,PGV(SUM)= 0.13
-Stacode=NTC ,Staname=?剖? ,Stalon=121.83,Stalat=24.85,Dist= 77.75,BAZ=191.80,PGA(V)= 0.46,PGA(NS)= 0.91,PGA(EW)= 1.01,PGV(V)= 0.02,PGV(NS)= 0.03,PGV(EW)= 0.04,Int= 1蝝?PGA(SUM)= 1.09,PGV(SUM)= 0.04
-Stacode=SML ,Staname=?交?瞏?Stalon=120.91,Stalat=23.88,Dist= 83.99,BAZ= 67.92,PGA(V)= 0.33,PGA(NS)= 0.56,PGA(EW)= 0.83,PGV(V)= 0.02,PGV(NS)= 0.04,PGV(EW)= 0.07,Int= 1蝝?PGA(SUM)= 0.91,PGV(SUM)= 0.07
-Stacode=KSHI,Staname=?正 ,Stalon=121.18,Stalat=24.78,Dist= 84.41,BAZ=143.27,PGA(V)= 0.67,PGA(NS)= 1.78,PGA(EW)= 1.20,PGV(V)= 0.03,PGV(NS)= 0.05,PGV(EW)= 0.06,Int= 1蝝?PGA(SUM)= 1.65,PGV(SUM)= 0.06
-Stacode=LIOB,Staname=撜函? ,Stalon=121.02,Stalat=24.65,Dist= 85.28,BAZ=128.61,PGA(V)= 0.44,PGA(NS)= 1.58,PGA(EW)= 0.67,PGV(V)= 0.02,PGV(NS)= 0.04,PGV(EW)= 0.03,Int= 1蝝?PGA(SUM)= 1.48,PGV(SUM)= 0.04
-Stacode=NJD ,Staname=蝡寞 ,Stalon=121.09,Stalat=24.74,Dist= 86.59,BAZ=136.75,PGA(V)= 0.77,PGA(NS)= 1.69,PGA(EW)= 1.37,PGV(V)= 0.02,PGV(NS)= 0.06,PGV(EW)= 0.07,Int= 1蝝?PGA(SUM)= 1.65,PGV(SUM)= 0.07
-Stacode=NHDH,Staname=?啣? ,Stalon=121.53,Stalat=24.96,Dist= 89.14,BAZ=170.30,PGA(V)= 0.58,PGA(NS)= 0.96,PGA(EW)= 1.18,PGV(V)= 0.02,PGV(NS)= 0.03,PGV(EW)= 0.05,Int= 1蝝?PGA(SUM)= 1.28,PGV(SUM)= 0.05
-Stacode=TWQ1,Staname=攳?瞏?Stalon=120.78,Stalat=24.35,Dist= 92.79,BAZ=102.42,PGA(V)= 0.69,PGA(NS)= 0.98,PGA(EW)= 1.01,PGV(V)= 0.06,PGV(NS)= 0.06,PGV(EW)= 0.06,Int= 1蝝?PGA(SUM)= 1.02,PGV(SUM)= 0.07
-Stacode=NSY ,Staname=銝儔 ,Stalon=120.77,Stalat=24.41,Dist= 95.76,BAZ=106.67,PGA(V)= 0.38,PGA(NS)= 0.87,PGA(EW)= 0.52,PGV(V)= 0.03,PGV(NS)= 0.05,PGV(EW)= 0.04,Int= 1蝝?PGA(SUM)= 0.86,PGV(SUM)= 0.05
-Stacode=HSN ,Staname=蝡孵?撣?Stalon=121.01,Stalat=24.83,Dist= 99.19,BAZ=137.66,PGA(V)= 0.72,PGA(NS)= 1.89,PGA(EW)= 2.15,PGV(V)= 0.02,PGV(NS)= 0.13,PGV(EW)= 0.13,Int= 1蝝?PGA(SUM)= 2.37,PGV(SUM)= 0.15
-Stacode=NJN ,Staname=蝡孵? ,Stalon=120.87,Stalat=24.68,Dist= 99.57,BAZ=125.13,PGA(V)= 0.50,PGA(NS)= 1.11,PGA(EW)= 2.06,PGV(V)= 0.02,PGV(NS)= 0.07,PGV(EW)= 0.10,Int= 1蝝?PGA(SUM)= 2.32,PGV(SUM)= 0.12
-Stacode=NTY ,Staname=獢?撣?Stalon=121.30,Stalat=25.00,Dist= 99.84,BAZ=157.60,PGA(V)= 0.93,PGA(NS)= 1.12,PGA(EW)= 0.77,PGV(V)= 0.03,PGV(NS)= 0.06,PGV(EW)= 0.04,Int= 1蝝?PGA(SUM)= 1.05,PGV(SUM)= 0.06
-Stacode=TCU ,Staname=?箔葉撣?Stalon=120.68,Stalat=24.15,Dist= 100.55,BAZ= 88.69,PGA(V)= 0.49,PGA(NS)= 1.44,PGA(EW)= 1.74,PGV(V)= 0.01,PGV(NS)= 0.05,PGV(EW)= 0.09,Int= 1蝝?PGA(SUM)= 2.03,PGV(SUM)= 0.11
-Stacode=NWF ,Staname=鈭?撅?Stalon=121.78,Stalat=25.07,Dist= 100.86,BAZ=186.23,PGA(V)= 0.37,PGA(NS)= 0.80,PGA(EW)= 0.72,PGV(V)= 0.01,PGV(NS)= 0.05,PGV(EW)= 0.04,Int= 1蝝?PGA(SUM)= 0.83,PGV(SUM)= 0.05
-Stacode=NXZ ,Staname=瘙迫 ,Stalon=121.64,Stalat=25.08,Dist= 100.87,BAZ=178.10,PGA(V)= 0.56,PGA(NS)= 1.64,PGA(EW)= 1.20,PGV(V)= 0.01,PGV(NS)= 0.04,PGV(EW)= 0.04,Int= 1蝝?PGA(SUM)= 1.69,PGV(SUM)= 0.05
-Stacode=NCU ,Staname=銝剖ㄑ ,Stalon=121.19,Stalat=24.97,Dist= 101.46,BAZ=150.95,PGA(V)= 0.33,PGA(NS)= 1.28,PGA(EW)= 0.42,PGV(V)= 0.02,PGV(NS)= 0.10,PGV(EW)= 0.03,Int= 1蝝?PGA(SUM)= 1.30,PGV(SUM)= 0.10
-Stacode=NHW ,Staname=?啣? ,Stalon=121.05,Stalat=25.01,Dist= 112.61,BAZ=145.75,PGA(V)= 0.20,PGA(NS)= 0.72,PGA(EW)= 1.09,PGV(V)= 0.01,PGV(NS)= 0.03,PGV(EW)= 0.05,Int= 1蝝?PGA(SUM)= 1.02,PGV(SUM)= 0.05
-Stacode=NTS ,Staname=瘛⊥偌 ,Stalon=121.45,Stalat=25.16,Dist= 112.85,BAZ=168.40,PGA(V)= 0.71,PGA(NS)= 1.19,PGA(EW)= 0.91,PGV(V)= 0.01,PGV(NS)= 0.04,PGV(EW)= 0.03,Int= 1蝝?PGA(SUM)= 0.95,PGV(SUM)= 0.04
-Stacode=WYL ,Staname=?⊥? ,Stalon=120.58,Stalat=23.96,Dist= 113.50,BAZ= 78.41,PGA(V)= 0.68,PGA(NS)= 1.27,PGA(EW)= 1.21,PGV(V)= 0.04,PGV(NS)= 0.06,PGV(EW)= 0.08,Int= 1蝝?PGA(SUM)= 1.25,PGV(SUM)= 0.09
-Stacode=WCHH,Staname=敶啣?撣?Stalon=120.56,Stalat=24.08,Dist= 113.75,BAZ= 85.15,PGA(V)= 0.97,PGA(NS)= 2.17,PGA(EW)= 2.93,PGV(V)= 0.04,PGV(NS)= 0.09,PGV(EW)= 0.11,Int= 2蝝?PGA(SUM)= 2.96,PGV(SUM)= 0.13
-Stacode=WWC ,Staname=璇扳ㄡ ,Stalon=120.52,Stalat=24.26,Dist= 117.23,BAZ= 94.89,PGA(V)= 0.51,PGA(NS)= 0.55,PGA(EW)= 0.73,PGV(V)= 0.03,PGV(NS)= 0.04,PGV(EW)= 0.04,Int= 1蝝?PGA(SUM)= 0.84,PGV(SUM)= 0.05
-Stacode=CHN5,Staname=?飯 ,Stalon=120.68,Stalat=23.60,Dist= 119.45,BAZ= 58.15,PGA(V)= 0.46,PGA(NS)= 0.92,PGA(EW)= 1.36,PGV(V)= 0.03,PGV(NS)= 0.05,PGV(EW)= 0.07,Int= 1蝝?PGA(SUM)= 1.47,PGV(SUM)= 0.07
-Stacode=CHK ,Staname=?? ,Stalon=121.37,Stalat=23.10,Dist= 122.24,BAZ= 14.51,PGA(V)= 0.38,PGA(NS)= 0.87,PGA(EW)= 1.25,PGV(V)= 0.01,PGV(NS)= 0.03,PGV(EW)= 0.05,Int= 1蝝?PGA(SUM)= 1.43,PGV(SUM)= 0.05
-Stacode=WDL ,Staname=?撣?Stalon=120.54,Stalat=23.71,Dist= 125.87,BAZ= 66.59,PGA(V)= 0.73,PGA(NS)= 0.86,PGA(EW)= 0.90,PGV(V)= 0.02,PGV(NS)= 0.05,PGV(EW)= 0.04,Int= 1蝝?PGA(SUM)= 0.98,PGV(SUM)= 0.06
-Stacode=ECS ,Staname=瘙? ,Stalon=121.22,Stalat=23.10,Dist= 127.35,BAZ= 21.33,PGA(V)= 0.30,PGA(NS)= 0.62,PGA(EW)= 0.63,PGV(V)= 0.02,PGV(NS)= 0.03,PGV(EW)= 0.05,Int= 1蝝?PGA(SUM)= 0.84,PGV(SUM)= 0.06
-Stacode=WRL ,Staname=鈭? ,Stalon=120.38,Stalat=23.90,Dist= 134.94,BAZ= 77.50,PGA(V)= 0.67,PGA(NS)= 1.21,PGA(EW)= 1.39,PGV(V)= 0.02,PGV(NS)= 0.06,PGV(EW)= 0.06,Int= 1蝝?PGA(SUM)= 1.29,PGV(SUM)= 0.06
-Stacode=WCKO,Staname=?芾楝 ,Stalon=120.60,Stalat=23.44,Dist= 135.47,BAZ= 53.49,PGA(V)= 0.48,PGA(NS)= 1.34,PGA(EW)= 0.78,PGV(V)= 0.02,PGV(NS)= 0.05,PGV(EW)= 0.03,Int= 1蝝?PGA(SUM)= 1.32,PGV(SUM)= 0.05
-Stacode=EDH ,Staname=?望眾 ,Stalon=121.30,Stalat=22.97,Dist= 137.49,BAZ= 15.91,PGA(V)= 0.51,PGA(NS)= 0.78,PGA(EW)= 1.03,PGV(V)= 0.02,PGV(NS)= 0.03,PGV(EW)= 0.04,Int= 1蝝?PGA(SUM)= 1.08,PGV(SUM)= 0.04
-Stacode=CHN2,Staname=瘞? ,Stalon=120.47,Stalat=23.53,Dist= 140.89,BAZ= 60.08,PGA(V)= 0.53,PGA(NS)= 0.99,PGA(EW)= 1.16,PGV(V)= 0.02,PGV(NS)= 0.05,PGV(EW)= 0.08,Int= 1蝝?PGA(SUM)= 1.18,PGV(SUM)= 0.09
-Stacode=WTK ,Staname=?澈 ,Stalon=120.39,Stalat=23.69,Dist= 141.12,BAZ= 67.93,PGA(V)= 0.49,PGA(NS)= 0.97,PGA(EW)= 1.12,PGV(V)= 0.01,PGV(NS)= 0.03,PGV(EW)= 0.04,Int= 1蝝?PGA(SUM)= 1.27,PGV(SUM)= 0.04
-Stacode=WTC ,Staname=憭批? ,Stalon=120.29,Stalat=23.86,Dist= 144.79,BAZ= 76.52,PGA(V)= 0.34,PGA(NS)= 0.90,PGA(EW)= 0.72,PGV(V)= 0.01,PGV(NS)= 0.04,PGV(EW)= 0.03,Int= 1蝝?PGA(SUM)= 0.95,PGV(SUM)= 0.04
-Stacode=CHY ,Staname=?儔撣?Stalon=120.43,Stalat=23.50,Dist= 146.58,BAZ= 59.58,PGA(V)= 0.32,PGA(NS)= 0.78,PGA(EW)= 0.66,PGV(V)= 0.01,PGV(NS)= 0.06,PGV(EW)= 0.04,Int= 1蝝?PGA(SUM)= 0.84,PGV(SUM)= 0.06
-Stacode=WML ,Staname=暻亙祚 ,Stalon=120.22,Stalat=23.80,Dist= 152.90,BAZ= 74.80,PGA(V)= 0.67,PGA(NS)= 0.61,PGA(EW)= 1.02,PGV(V)= 0.02,PGV(NS)= 0.03,PGV(EW)= 0.05,Int= 1蝝?PGA(SUM)= 0.88,PGV(SUM)= 0.06
-Stacode=WSF ,Staname=?? ,Stalon=120.23,Stalat=23.64,Dist= 158.27,BAZ= 68.23,PGA(V)= 0.75,PGA(NS)= 1.46,PGA(EW)= 1.26,PGV(V)= 0.02,PGV(NS)= 0.07,PGV(EW)= 0.04,Int= 1蝝?PGA(SUM)= 1.53,PGV(SUM)= 0.08
-Stacode=CHY1,Staname=憭芯?撣?Stalon=120.29,Stalat=23.46,Dist= 161.01,BAZ= 60.80,PGA(V)= 0.35,PGA(NS)= 0.82,PGA(EW)= 0.74,PGV(V)= 0.01,PGV(NS)= 0.03,PGV(EW)= 0.02,Int= 1蝝?PGA(SUM)= 0.85,PGV(SUM)= 0.03
-Stacode=WSL ,Staname=瘞湔? ,Stalon=120.23,Stalat=23.52,Dist= 163.60,BAZ= 64.16,PGA(V)= 0.41,PGA(NS)= 0.78,PGA(EW)= 0.70,PGV(V)= 0.01,PGV(NS)= 0.05,PGV(EW)= 0.04,Int= 1蝝?PGA(SUM)= 0.85,PGV(SUM)= 0.06
+Stacode=ETL ,Staname=太魯閣,Stalon=121.62,Stalat=24.16,Dist= 5.19,BAZ= 80.63,PGA(V)= 8.12,PGA(NS)= 15.52,PGA(EW)= 10.51,PGV(V)= 0.11,PGV(NS)= 0.32,PGV(EW)= 0.24,Int= 3級,PGA(SUM)= 11.10,PGV(SUM)= 0.40
+Stacode=TWD ,Staname=秀林 ,Stalon=121.60,Stalat=24.08,Dist= 11.74,BAZ= 36.57,PGA(V)= 3.44,PGA(NS)= 4.07,PGA(EW)= 4.08,PGV(V)= 0.08,PGV(NS)= 0.13,PGV(EW)= 0.11,Int= 2級,PGA(SUM)= 4.04,PGV(SUM)= 0.15
+Stacode=EHP ,Staname=和平 ,Stalon=121.75,Stalat=24.31,Dist= 17.59,BAZ=206.05,PGA(V)= 9.22,PGA(NS)= 10.68,PGA(EW)= 9.88,PGV(V)= 0.18,PGV(NS)= 0.29,PGV(EW)= 0.26,Int= 3級,PGA(SUM)= 12.12,PGV(SUM)= 0.35
+Stacode=EAH ,Staname=澳花 ,Stalon=121.74,Stalat=24.33,Dist= 19.25,BAZ=200.36,PGA(V)= 6.08,PGA(NS)= 7.08,PGA(EW)= 6.40,PGV(V)= 0.14,PGV(NS)= 0.40,PGV(EW)= 0.20,Int= 2級,PGA(SUM)= 6.62,PGV(SUM)= 0.41
+Stacode=ETLH,Staname=西寶 ,Stalon=121.48,Stalat=24.21,Dist= 19.98,BAZ=102.96,PGA(V)= 16.43,PGA(NS)= 19.98,PGA(EW)= 23.84,PGV(V)= 0.37,PGV(NS)= 0.34,PGV(EW)= 0.32,Int= 3級,PGA(SUM)= 18.95,PGV(SUM)= 0.47
+Stacode=HWA ,Staname=花蓮市,Stalon=121.61,Stalat=23.98,Dist= 22.05,BAZ= 16.02,PGA(V)= 2.49,PGA(NS)= 4.35,PGA(EW)= 5.12,PGV(V)= 0.08,PGV(NS)= 0.18,PGV(EW)= 0.21,Int= 2級,PGA(SUM)= 5.05,PGV(SUM)= 0.21
+Stacode=ETM ,Staname=銅門 ,Stalon=121.49,Stalat=23.97,Dist= 28.81,BAZ= 39.59,PGA(V)= 3.54,PGA(NS)= 6.12,PGA(EW)= 6.03,PGV(V)= 0.13,PGV(NS)= 0.13,PGV(EW)= 0.12,Int= 2級,PGA(SUM)= 4.67,PGV(SUM)= 0.15
+Stacode=ENA ,Staname=南澳 ,Stalon=121.75,Stalat=24.43,Dist= 29.76,BAZ=194.96,PGA(V)= 7.70,PGA(NS)= 29.51,PGA(EW)= 16.30,PGV(V)= 0.14,PGV(NS)= 0.42,PGV(EW)= 0.29,Int= 3級,PGA(SUM)= 19.49,PGV(SUM)= 0.44
+Stacode=EYL ,Staname=鹽寮 ,Stalon=121.60,Stalat=23.90,Dist= 30.01,BAZ= 14.05,PGA(V)= 1.94,PGA(NS)= 3.91,PGA(EW)= 5.14,PGV(V)= 0.07,PGV(NS)= 0.15,PGV(EW)= 0.18,Int= 2級,PGA(SUM)= 5.06,PGV(SUM)= 0.19
+Stacode=EWT ,Staname=武塔 ,Stalon=121.78,Stalat=24.45,Dist= 32.65,BAZ=199.04,PGA(V)= 4.76,PGA(NS)= 8.73,PGA(EW)= 8.49,PGV(V)= 0.13,PGV(NS)= 0.17,PGV(EW)= 0.18,Int= 2級,PGA(SUM)= 6.04,PGV(SUM)= 0.22
+Stacode=WHF ,Staname=合歡山,Stalon=121.27,Stalat=24.14,Dist= 40.81,BAZ= 86.43,PGA(V)= 1.96,PGA(NS)= 5.86,PGA(EW)= 6.55,PGV(V)= 0.08,PGV(NS)= 0.19,PGV(EW)= 0.20,Int= 2級,PGA(SUM)= 7.03,PGV(SUM)= 0.26
+Stacode=NNS ,Staname=南山 ,Stalon=121.38,Stalat=24.44,Dist= 42.19,BAZ=135.37,PGA(V)= 1.86,PGA(NS)= 6.03,PGA(EW)= 4.54,PGV(V)= 0.04,PGV(NS)= 0.13,PGV(EW)= 0.15,Int= 2級,PGA(SUM)= 5.11,PGV(SUM)= 0.15
+Stacode=SHUL,Staname=水璉 ,Stalon=121.56,Stalat=23.79,Dist= 43.44,BAZ= 15.02,PGA(V)= 1.00,PGA(NS)= 1.79,PGA(EW)= 2.07,PGV(V)= 0.04,PGV(NS)= 0.07,PGV(EW)= 0.10,Int= 1級,PGA(SUM)= 2.15,PGV(SUM)= 0.11
+Stacode=FUSS,Staname=梨山 ,Stalon=121.24,Stalat=24.25,Dist= 44.55,BAZ=101.66,PGA(V)= 1.42,PGA(NS)= 2.99,PGA(EW)= 2.08,PGV(V)= 0.06,PGV(NS)= 0.12,PGV(EW)= 0.08,Int= 2級,PGA(SUM)= 3.15,PGV(SUM)= 0.13
+Stacode=ESL ,Staname=西林 ,Stalon=121.44,Stalat=23.81,Dist= 45.78,BAZ= 31.00,PGA(V)= 1.38,PGA(NS)= 2.74,PGA(EW)= 4.44,PGV(V)= 0.04,PGV(NS)= 0.06,PGV(EW)= 0.07,Int= 1級,PGA(SUM)= 2.04,PGV(SUM)= 0.07
+Stacode=NDT ,Staname=大同 ,Stalon=121.51,Stalat=24.60,Dist= 50.98,BAZ=161.37,PGA(V)= 0.62,PGA(NS)= 0.89,PGA(EW)= 0.86,PGV(V)= 0.02,PGV(NS)= 0.03,PGV(EW)= 0.03,Int= 1級,PGA(SUM)= 0.94,PGV(SUM)= 0.04
+Stacode=NDS ,Staname=冬山 ,Stalon=121.72,Stalat=24.63,Dist= 51.99,BAZ=184.86,PGA(V)= 1.38,PGA(NS)= 1.34,PGA(EW)= 1.91,PGV(V)= 0.04,PGV(NS)= 0.05,PGV(EW)= 0.07,Int= 1級,PGA(SUM)= 1.85,PGV(SUM)= 0.07
+Stacode=EGC ,Staname=磯崎 ,Stalon=121.55,Stalat=23.71,Dist= 52.37,BAZ= 14.14,PGA(V)= 0.91,PGA(NS)= 3.73,PGA(EW)= 1.81,PGV(V)= 0.03,PGV(NS)= 0.10,PGV(EW)= 0.07,Int= 2級,PGA(SUM)= 3.68,PGV(SUM)= 0.10
+Stacode=TWC ,Staname=蘇澳 ,Stalon=121.86,Stalat=24.61,Dist= 52.48,BAZ=201.15,PGA(V)= 1.06,PGA(NS)= 1.79,PGA(EW)= 2.16,PGV(V)= 0.03,PGV(NS)= 0.04,PGV(EW)= 0.06,Int= 1級,PGA(SUM)= 2.22,PGV(SUM)= 0.06
+Stacode=TWT ,Staname=德基 ,Stalon=121.16,Stalat=24.25,Dist= 52.77,BAZ=100.05,PGA(V)= 1.74,PGA(NS)= 2.67,PGA(EW)= 1.69,PGV(V)= 0.07,PGV(NS)= 0.14,PGV(EW)= 0.08,Int= 2級,PGA(SUM)= 2.78,PGV(SUM)= 0.16
+Stacode=ENT ,Staname=牛鬥 ,Stalon=121.57,Stalat=24.64,Dist= 53.19,BAZ=169.05,PGA(V)= 1.11,PGA(NS)= 4.82,PGA(EW)= 3.46,PGV(V)= 0.03,PGV(NS)= 0.12,PGV(EW)= 0.07,Int= 2級,PGA(SUM)= 4.22,PGV(SUM)= 0.13
+Stacode=EGFH,Staname=光復 ,Stalon=121.43,Stalat=23.67,Dist= 60.51,BAZ= 24.43,PGA(V)= 1.49,PGA(NS)= 1.44,PGA(EW)= 1.93,PGV(V)= 0.03,PGV(NS)= 0.04,PGV(EW)= 0.05,Int= 1級,PGA(SUM)= 1.82,PGV(SUM)= 0.05
+Stacode=TWE ,Staname=內城 ,Stalon=121.68,Stalat=24.72,Dist= 61.12,BAZ=180.91,PGA(V)= 0.47,PGA(NS)= 0.78,PGA(EW)= 1.09,PGV(V)= 0.02,PGV(NS)= 0.03,PGV(EW)= 0.04,Int= 1級,PGA(SUM)= 1.04,PGV(SUM)= 0.04
+Stacode=NSK ,Staname=三光 ,Stalon=121.37,Stalat=24.67,Dist= 64.23,BAZ=151.04,PGA(V)= 0.37,PGA(NS)= 0.71,PGA(EW)= 1.24,PGV(V)= 0.02,PGV(NS)= 0.02,PGV(EW)= 0.03,Int= 1級,PGA(SUM)= 0.87,PGV(SUM)= 0.03
+Stacode=ILA ,Staname=宜蘭市,Stalon=121.76,Stalat=24.76,Dist= 66.71,BAZ=187.24,PGA(V)= 0.68,PGA(NS)= 0.97,PGA(EW)= 0.99,PGV(V)= 0.02,PGV(NS)= 0.04,PGV(EW)= 0.04,Int= 1級,PGA(SUM)= 1.10,PGV(SUM)= 0.06
+Stacode=WPL ,Staname=埔里 ,Stalon=120.96,Stalat=24.01,Dist= 74.77,BAZ= 76.82,PGA(V)= 0.92,PGA(NS)= 0.98,PGA(EW)= 0.80,PGV(V)= 0.04,PGV(NS)= 0.04,PGV(EW)= 0.03,Int= 1級,PGA(SUM)= 1.14,PGV(SUM)= 0.05
+Stacode=WHP ,Staname=烏石坑,Stalon=120.95,Stalat=24.28,Dist= 74.91,BAZ= 99.48,PGA(V)= 0.89,PGA(NS)= 1.16,PGA(EW)= 1.08,PGV(V)= 0.06,PGV(NS)= 0.08,PGV(EW)= 0.11,Int= 1級,PGA(SUM)= 1.34,PGV(SUM)= 0.13
+Stacode=NTC ,Staname=頭城 ,Stalon=121.83,Stalat=24.85,Dist= 77.75,BAZ=191.80,PGA(V)= 0.46,PGA(NS)= 0.91,PGA(EW)= 1.01,PGV(V)= 0.02,PGV(NS)= 0.03,PGV(EW)= 0.04,Int= 1級,PGA(SUM)= 1.09,PGV(SUM)= 0.04
+Stacode=SML ,Staname=日月潭,Stalon=120.91,Stalat=23.88,Dist= 83.99,BAZ= 67.92,PGA(V)= 0.33,PGA(NS)= 0.56,PGA(EW)= 0.83,PGV(V)= 0.02,PGV(NS)= 0.04,PGV(EW)= 0.07,Int= 1級,PGA(SUM)= 0.91,PGV(SUM)= 0.07
+Stacode=KSHI,Staname=關西 ,Stalon=121.18,Stalat=24.78,Dist= 84.41,BAZ=143.27,PGA(V)= 0.67,PGA(NS)= 1.78,PGA(EW)= 1.20,PGV(V)= 0.03,PGV(NS)= 0.05,PGV(EW)= 0.06,Int= 1級,PGA(SUM)= 1.65,PGV(SUM)= 0.06
+Stacode=LIOB,Staname=峨眉 ,Stalon=121.02,Stalat=24.65,Dist= 85.28,BAZ=128.61,PGA(V)= 0.44,PGA(NS)= 1.58,PGA(EW)= 0.67,PGV(V)= 0.02,PGV(NS)= 0.04,PGV(EW)= 0.03,Int= 1級,PGA(SUM)= 1.48,PGV(SUM)= 0.04
+Stacode=NJD ,Staname=竹東 ,Stalon=121.09,Stalat=24.74,Dist= 86.59,BAZ=136.75,PGA(V)= 0.77,PGA(NS)= 1.69,PGA(EW)= 1.37,PGV(V)= 0.02,PGV(NS)= 0.06,PGV(EW)= 0.07,Int= 1級,PGA(SUM)= 1.65,PGV(SUM)= 0.07
+Stacode=NHDH,Staname=新店 ,Stalon=121.53,Stalat=24.96,Dist= 89.14,BAZ=170.30,PGA(V)= 0.58,PGA(NS)= 0.96,PGA(EW)= 1.18,PGV(V)= 0.02,PGV(NS)= 0.03,PGV(EW)= 0.05,Int= 1級,PGA(SUM)= 1.28,PGV(SUM)= 0.05
+Stacode=TWQ1,Staname=鯉魚潭,Stalon=120.78,Stalat=24.35,Dist= 92.79,BAZ=102.42,PGA(V)= 0.69,PGA(NS)= 0.98,PGA(EW)= 1.01,PGV(V)= 0.06,PGV(NS)= 0.06,PGV(EW)= 0.06,Int= 1級,PGA(SUM)= 1.02,PGV(SUM)= 0.07
+Stacode=NSY ,Staname=三義 ,Stalon=120.77,Stalat=24.41,Dist= 95.76,BAZ=106.67,PGA(V)= 0.38,PGA(NS)= 0.87,PGA(EW)= 0.52,PGV(V)= 0.03,PGV(NS)= 0.05,PGV(EW)= 0.04,Int= 1級,PGA(SUM)= 0.86,PGV(SUM)= 0.05
+Stacode=HSN ,Staname=竹北市,Stalon=121.01,Stalat=24.83,Dist= 99.19,BAZ=137.66,PGA(V)= 0.72,PGA(NS)= 1.89,PGA(EW)= 2.15,PGV(V)= 0.02,PGV(NS)= 0.13,PGV(EW)= 0.13,Int= 1級,PGA(SUM)= 2.37,PGV(SUM)= 0.15
+Stacode=NJN ,Staname=竹南 ,Stalon=120.87,Stalat=24.68,Dist= 99.57,BAZ=125.13,PGA(V)= 0.50,PGA(NS)= 1.11,PGA(EW)= 2.06,PGV(V)= 0.02,PGV(NS)= 0.07,PGV(EW)= 0.10,Int= 1級,PGA(SUM)= 2.32,PGV(SUM)= 0.12
+Stacode=NTY ,Staname=桃園市,Stalon=121.30,Stalat=25.00,Dist= 99.84,BAZ=157.60,PGA(V)= 0.93,PGA(NS)= 1.12,PGA(EW)= 0.77,PGV(V)= 0.03,PGV(NS)= 0.06,PGV(EW)= 0.04,Int= 1級,PGA(SUM)= 1.05,PGV(SUM)= 0.06
+Stacode=TCU ,Staname=臺中市,Stalon=120.68,Stalat=24.15,Dist= 100.55,BAZ= 88.69,PGA(V)= 0.49,PGA(NS)= 1.44,PGA(EW)= 1.74,PGV(V)= 0.01,PGV(NS)= 0.05,PGV(EW)= 0.09,Int= 1級,PGA(SUM)= 2.03,PGV(SUM)= 0.11
+Stacode=NWF ,Staname=五分山,Stalon=121.78,Stalat=25.07,Dist= 100.86,BAZ=186.23,PGA(V)= 0.37,PGA(NS)= 0.80,PGA(EW)= 0.72,PGV(V)= 0.01,PGV(NS)= 0.05,PGV(EW)= 0.04,Int= 1級,PGA(SUM)= 0.83,PGV(SUM)= 0.05
+Stacode=NXZ ,Staname=汐止 ,Stalon=121.64,Stalat=25.08,Dist= 100.87,BAZ=178.10,PGA(V)= 0.56,PGA(NS)= 1.64,PGA(EW)= 1.20,PGV(V)= 0.01,PGV(NS)= 0.04,PGV(EW)= 0.04,Int= 1級,PGA(SUM)= 1.69,PGV(SUM)= 0.05
+Stacode=NCU ,Staname=中壢 ,Stalon=121.19,Stalat=24.97,Dist= 101.46,BAZ=150.95,PGA(V)= 0.33,PGA(NS)= 1.28,PGA(EW)= 0.42,PGV(V)= 0.02,PGV(NS)= 0.10,PGV(EW)= 0.03,Int= 1級,PGA(SUM)= 1.30,PGV(SUM)= 0.10
+Stacode=NHW ,Staname=新屋 ,Stalon=121.05,Stalat=25.01,Dist= 112.61,BAZ=145.75,PGA(V)= 0.20,PGA(NS)= 0.72,PGA(EW)= 1.09,PGV(V)= 0.01,PGV(NS)= 0.03,PGV(EW)= 0.05,Int= 1級,PGA(SUM)= 1.02,PGV(SUM)= 0.05
+Stacode=NTS ,Staname=淡水 ,Stalon=121.45,Stalat=25.16,Dist= 112.85,BAZ=168.40,PGA(V)= 0.71,PGA(NS)= 1.19,PGA(EW)= 0.91,PGV(V)= 0.01,PGV(NS)= 0.04,PGV(EW)= 0.03,Int= 1級,PGA(SUM)= 0.95,PGV(SUM)= 0.04
+Stacode=WYL ,Staname=員林 ,Stalon=120.58,Stalat=23.96,Dist= 113.50,BAZ= 78.41,PGA(V)= 0.68,PGA(NS)= 1.27,PGA(EW)= 1.21,PGV(V)= 0.04,PGV(NS)= 0.06,PGV(EW)= 0.08,Int= 1級,PGA(SUM)= 1.25,PGV(SUM)= 0.09
+Stacode=WCHH,Staname=彰化市,Stalon=120.56,Stalat=24.08,Dist= 113.75,BAZ= 85.15,PGA(V)= 0.97,PGA(NS)= 2.17,PGA(EW)= 2.93,PGV(V)= 0.04,PGV(NS)= 0.09,PGV(EW)= 0.11,Int= 2級,PGA(SUM)= 2.96,PGV(SUM)= 0.13
+Stacode=WWC ,Staname=梧棲 ,Stalon=120.52,Stalat=24.26,Dist= 117.23,BAZ= 94.89,PGA(V)= 0.51,PGA(NS)= 0.55,PGA(EW)= 0.73,PGV(V)= 0.03,PGV(NS)= 0.04,PGV(EW)= 0.04,Int= 1級,PGA(SUM)= 0.84,PGV(SUM)= 0.05
+Stacode=CHN5,Staname=草嶺 ,Stalon=120.68,Stalat=23.60,Dist= 119.45,BAZ= 58.15,PGA(V)= 0.46,PGA(NS)= 0.92,PGA(EW)= 1.36,PGV(V)= 0.03,PGV(NS)= 0.05,PGV(EW)= 0.07,Int= 1級,PGA(SUM)= 1.47,PGV(SUM)= 0.07
+Stacode=CHK ,Staname=成功 ,Stalon=121.37,Stalat=23.10,Dist= 122.24,BAZ= 14.51,PGA(V)= 0.38,PGA(NS)= 0.87,PGA(EW)= 1.25,PGV(V)= 0.01,PGV(NS)= 0.03,PGV(EW)= 0.05,Int= 1級,PGA(SUM)= 1.43,PGV(SUM)= 0.05
+Stacode=WDL ,Staname=斗六市,Stalon=120.54,Stalat=23.71,Dist= 125.87,BAZ= 66.59,PGA(V)= 0.73,PGA(NS)= 0.86,PGA(EW)= 0.90,PGV(V)= 0.02,PGV(NS)= 0.05,PGV(EW)= 0.04,Int= 1級,PGA(SUM)= 0.98,PGV(SUM)= 0.06
+Stacode=ECS ,Staname=池上 ,Stalon=121.22,Stalat=23.10,Dist= 127.35,BAZ= 21.33,PGA(V)= 0.30,PGA(NS)= 0.62,PGA(EW)= 0.63,PGV(V)= 0.02,PGV(NS)= 0.03,PGV(EW)= 0.05,Int= 1級,PGA(SUM)= 0.84,PGV(SUM)= 0.06
+Stacode=WRL ,Staname=二林 ,Stalon=120.38,Stalat=23.90,Dist= 134.94,BAZ= 77.50,PGA(V)= 0.67,PGA(NS)= 1.21,PGA(EW)= 1.39,PGV(V)= 0.02,PGV(NS)= 0.06,PGV(EW)= 0.06,Int= 1級,PGA(SUM)= 1.29,PGV(SUM)= 0.06
+Stacode=WCKO,Staname=番路 ,Stalon=120.60,Stalat=23.44,Dist= 135.47,BAZ= 53.49,PGA(V)= 0.48,PGA(NS)= 1.34,PGA(EW)= 0.78,PGV(V)= 0.02,PGV(NS)= 0.05,PGV(EW)= 0.03,Int= 1級,PGA(SUM)= 1.32,PGV(SUM)= 0.05
+Stacode=EDH ,Staname=東河 ,Stalon=121.30,Stalat=22.97,Dist= 137.49,BAZ= 15.91,PGA(V)= 0.51,PGA(NS)= 0.78,PGA(EW)= 1.03,PGV(V)= 0.02,PGV(NS)= 0.03,PGV(EW)= 0.04,Int= 1級,PGA(SUM)= 1.08,PGV(SUM)= 0.04
+Stacode=CHN2,Staname=民雄 ,Stalon=120.47,Stalat=23.53,Dist= 140.89,BAZ= 60.08,PGA(V)= 0.53,PGA(NS)= 0.99,PGA(EW)= 1.16,PGV(V)= 0.02,PGV(NS)= 0.05,PGV(EW)= 0.08,Int= 1級,PGA(SUM)= 1.18,PGV(SUM)= 0.09
+Stacode=WTK ,Staname=土庫 ,Stalon=120.39,Stalat=23.69,Dist= 141.12,BAZ= 67.93,PGA(V)= 0.49,PGA(NS)= 0.97,PGA(EW)= 1.12,PGV(V)= 0.01,PGV(NS)= 0.03,PGV(EW)= 0.04,Int= 1級,PGA(SUM)= 1.27,PGV(SUM)= 0.04
+Stacode=WTC ,Staname=大城 ,Stalon=120.29,Stalat=23.86,Dist= 144.79,BAZ= 76.52,PGA(V)= 0.34,PGA(NS)= 0.90,PGA(EW)= 0.72,PGV(V)= 0.01,PGV(NS)= 0.04,PGV(EW)= 0.03,Int= 1級,PGA(SUM)= 0.95,PGV(SUM)= 0.04
+Stacode=CHY ,Staname=嘉義市,Stalon=120.43,Stalat=23.50,Dist= 146.58,BAZ= 59.58,PGA(V)= 0.32,PGA(NS)= 0.78,PGA(EW)= 0.66,PGV(V)= 0.01,PGV(NS)= 0.06,PGV(EW)= 0.04,Int= 1級,PGA(SUM)= 0.84,PGV(SUM)= 0.06
+Stacode=WML ,Staname=麥寮 ,Stalon=120.22,Stalat=23.80,Dist= 152.90,BAZ= 74.80,PGA(V)= 0.67,PGA(NS)= 0.61,PGA(EW)= 1.02,PGV(V)= 0.02,PGV(NS)= 0.03,PGV(EW)= 0.05,Int= 1級,PGA(SUM)= 0.88,PGV(SUM)= 0.06
+Stacode=WSF ,Staname=四湖 ,Stalon=120.23,Stalat=23.64,Dist= 158.27,BAZ= 68.23,PGA(V)= 0.75,PGA(NS)= 1.46,PGA(EW)= 1.26,PGV(V)= 0.02,PGV(NS)= 0.07,PGV(EW)= 0.04,Int= 1級,PGA(SUM)= 1.53,PGV(SUM)= 0.08
+Stacode=CHY1,Staname=太保市,Stalon=120.29,Stalat=23.46,Dist= 161.01,BAZ= 60.80,PGA(V)= 0.35,PGA(NS)= 0.82,PGA(EW)= 0.74,PGV(V)= 0.01,PGV(NS)= 0.03,PGV(EW)= 0.02,Int= 1級,PGA(SUM)= 0.85,PGV(SUM)= 0.03
+Stacode=WSL ,Staname=水林 ,Stalon=120.23,Stalat=23.52,Dist= 163.60,BAZ= 64.16,PGA(V)= 0.41,PGA(NS)= 0.78,PGA(EW)= 0.70,PGV(V)= 0.01,PGV(NS)= 0.05,PGV(EW)= 0.04,Int= 1級,PGA(SUM)= 0.85,PGV(SUM)= 0.06
