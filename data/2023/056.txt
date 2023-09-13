@@ -1,0 +1,7 @@
+Origin Time:2023/08/04 20:25:17
+Lon:121.64¢XE
+Lat:21.84¢XN
+Depth:21.4km
+Mag:5.0
+Stacode=LAY ,Staname=ÄõÀ¬  ,Stalon=121.56,Stalat=22.04,Dist=  23.78,BAZ=159.12,PGA(V)=  13.33,PGA(NS)=  47.34,PGA(EW)=  66.26,PGV(V)=   0.52,PGV(NS)=   2.15,PGV(EW)=   2.86,Int= 4¯Å,PGA(SUM)=  69.25,PGV(SUM)=   2.88
+Stacode=HEN ,Staname=«í¬K  ,Stalon=120.75,Stalat=22.00,Dist=  94.20,BAZ=101.33,PGA(V)=   0.24,PGA(NS)=   1.04,PGA(EW)=   0.60,PGV(V)=   0.02,PGV(NS)=   0.08,PGV(EW)=   0.08,Int= 1¯Å,PGA(SUM)=   1.21,PGV(SUM)=   0.11

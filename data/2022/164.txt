@@ -1,0 +1,32 @@
+Origin Time:2022/11/05 22:42:13
+Lon:120.62E
+Lat:23.43N
+Depth:13.6km
+Mag:4.1
+Stacode=WCKO,Staname=礷隔  ,Stalon=120.60,Stalat=23.44,Dist=   1.31,BAZ=126.38,PGA(V)=  34.09,PGA(NS)=  66.28,PGA(EW)=  79.31,PGV(V)=   0.90,PGV(NS)=   1.88,PGV(EW)=   2.35,Int= 4,PGA(SUM)=  81.33,PGV(SUM)=   2.44
+Stacode=CHN2,Staname=チ动  ,Stalon=120.47,Stalat=23.53,Dist=  18.16,BAZ=127.75,PGA(V)=   4.84,PGA(NS)=   9.84,PGA(EW)=   8.80,PGV(V)=   0.14,PGV(NS)=   0.28,PGV(EW)=   0.21,Int= 3,PGA(SUM)=   9.80,PGV(SUM)=   0.29
+Stacode=CHN5,Staname=拉  ,Stalon=120.68,Stalat=23.60,Dist=  19.44,BAZ=199.19,PGA(V)=   3.68,PGA(NS)=   6.29,PGA(EW)=  11.40,PGV(V)=   0.12,PGV(NS)=   0.24,PGV(EW)=   0.47,Int= 3,PGA(SUM)=  11.82,PGV(SUM)=   0.49
+Stacode=CHY ,Staname=古竡カ,Stalon=120.43,Stalat=23.50,Dist=  19.98,BAZ=111.05,PGA(V)=   2.07,PGA(NS)=   2.89,PGA(EW)=   5.84,PGV(V)=   0.04,PGV(NS)=   0.08,PGV(EW)=   0.20,Int= 2,PGA(SUM)=   5.97,PGV(SUM)=   0.20
+Stacode=WTP ,Staname=瓾  ,Stalon=120.62,Stalat=23.24,Dist=  20.80,BAZ=357.94,PGA(V)=   1.61,PGA(NS)=   3.31,PGA(EW)=   4.72,PGV(V)=   0.02,PGV(NS)=   0.07,PGV(EW)=   0.07,Int= 1,PGA(SUM)=   2.20,PGV(SUM)=   0.09
+Stacode=TWL ,Staname=狥  ,Stalon=120.50,Stalat=23.26,Dist=  21.89,BAZ= 32.51,PGA(V)=   1.55,PGA(NS)=   1.37,PGA(EW)=   1.89,PGV(V)=   0.03,PGV(NS)=   0.04,PGV(EW)=   0.06,Int= 1,PGA(SUM)=   1.93,PGV(SUM)=   0.07
+Stacode=WGK ,Staname=  ,Stalon=120.57,Stalat=23.68,Dist=  28.38,BAZ=170.75,PGA(V)=   1.26,PGA(NS)=   3.80,PGA(EW)=   2.62,PGV(V)=   0.02,PGV(NS)=   0.08,PGV(EW)=   0.08,Int= 2,PGA(SUM)=   3.28,PGV(SUM)=   0.09
+Stacode=CHN1,Staname=罚﹁  ,Stalon=120.53,Stalat=23.19,Dist=  28.70,BAZ= 17.95,PGA(V)=   0.96,PGA(NS)=   1.66,PGA(EW)=   1.82,PGV(V)=   0.02,PGV(NS)=   0.03,PGV(EW)=   0.04,Int= 1,PGA(SUM)=   1.05,PGV(SUM)=   0.04
+Stacode=WDL ,Staname=ゆせカ,Stalon=120.54,Stalat=23.71,Dist=  32.33,BAZ=166.04,PGA(V)=   1.21,PGA(NS)=   1.52,PGA(EW)=   2.19,PGV(V)=   0.03,PGV(NS)=   0.05,PGV(EW)=   0.08,Int= 1,PGA(SUM)=   2.15,PGV(SUM)=   0.08
+Stacode=STYH,Staname=方  ,Stalon=120.78,Stalat=23.18,Dist=  32.68,BAZ=328.68,PGA(V)=   3.08,PGA(NS)=   4.23,PGA(EW)=   3.66,PGV(V)=   0.04,PGV(NS)=   0.09,PGV(EW)=   0.06,Int= 2,PGA(SUM)=   3.71,PGV(SUM)=   0.09
+Stacode=CHY1,Staname=び玂カ,Stalon=120.29,Stalat=23.46,Dist=  32.93,BAZ= 94.92,PGA(V)=   1.14,PGA(NS)=   2.41,PGA(EW)=   3.04,PGV(V)=   0.03,PGV(NS)=   0.12,PGV(EW)=   0.11,Int= 2,PGA(SUM)=   3.05,PGV(SUM)=   0.13
+Stacode=YUS ,Staname=ド  ,Stalon=120.96,Stalat=23.49,Dist=  35.69,BAZ=260.03,PGA(V)=   0.41,PGA(NS)=   0.81,PGA(EW)=   1.05,PGV(V)=   0.02,PGV(NS)=   0.03,PGV(EW)=   0.04,Int= 1,PGA(SUM)=   1.00,PGV(SUM)=   0.04
+Stacode=WTK ,Staname=畐  ,Stalon=120.39,Stalat=23.69,Dist=  36.59,BAZ=140.84,PGA(V)=   1.37,PGA(NS)=   2.61,PGA(EW)=   1.69,PGV(V)=   0.02,PGV(NS)=   0.09,PGV(EW)=   0.06,Int= 2,PGA(SUM)=   2.83,PGV(SUM)=   0.11
+Stacode=WHY ,Staname=獺竡秏,Stalon=120.85,Stalat=23.70,Dist=  38.08,BAZ=219.68,PGA(V)=   0.53,PGA(NS)=   1.35,PGA(EW)=   1.32,PGV(V)=   0.02,PGV(NS)=   0.05,PGV(EW)=   0.06,Int= 1,PGA(SUM)=   1.47,PGV(SUM)=   0.06
+Stacode=SGS ,Staname=ヒ  ,Stalon=120.59,Stalat=23.08,Dist=  38.96,BAZ=  3.64,PGA(V)=   0.42,PGA(NS)=   0.60,PGA(EW)=   1.21,PGV(V)=   0.01,PGV(NS)=   0.03,PGV(EW)=   0.04,Int= 1,PGA(SUM)=   1.03,PGV(SUM)=   0.04
+Stacode=WSL ,Staname=狶  ,Stalon=120.23,Stalat=23.52,Dist=  40.82,BAZ=104.31,PGA(V)=   0.93,PGA(NS)=   0.66,PGA(EW)=   1.05,PGV(V)=   0.02,PGV(NS)=   0.03,PGV(EW)=   0.04,Int= 1,PGA(SUM)=   1.02,PGV(SUM)=   0.04
+Stacode=CHN8,Staname=竡λ  ,Stalon=120.22,Stalat=23.35,Dist=  41.16,BAZ= 76.92,PGA(V)=   1.07,PGA(NS)=   2.29,PGA(EW)=   3.12,PGV(V)=   0.04,PGV(NS)=   0.08,PGV(EW)=   0.10,Int= 2,PGA(SUM)=   2.73,PGV(SUM)=   0.10
+Stacode=WSF ,Staname=打  ,Stalon=120.23,Stalat=23.64,Dist=  45.41,BAZ=119.98,PGA(V)=   0.63,PGA(NS)=   1.52,PGA(EW)=   1.16,PGV(V)=   0.02,PGV(NS)=   0.04,PGV(EW)=   0.03,Int= 1,PGA(SUM)=   1.68,PGV(SUM)=   0.05
+Stacode=SSH ,Staname=到て  ,Stalon=120.29,Stalat=23.14,Dist=  46.79,BAZ= 45.63,PGA(V)=   0.49,PGA(NS)=   0.94,PGA(EW)=   0.62,PGV(V)=   0.01,PGV(NS)=   0.04,PGV(EW)=   0.03,Int= 1,PGA(SUM)=   1.01,PGV(SUM)=   0.04
+Stacode=SCL ,Staname=ㄎń  ,Stalon=120.20,Stalat=23.17,Dist=  51.02,BAZ= 55.94,PGA(V)=   0.75,PGA(NS)=   1.61,PGA(EW)=   1.23,PGV(V)=   0.02,PGV(NS)=   0.05,PGV(EW)=   0.05,Int= 1,PGA(SUM)=   1.66,PGV(SUM)=   0.06
+Stacode=SHH ,Staname=穝て  ,Stalon=120.35,Stalat=23.02,Dist=  53.02,BAZ= 31.04,PGA(V)=   0.47,PGA(NS)=   1.05,PGA(EW)=   1.30,PGV(V)=   0.02,PGV(NS)=   0.04,PGV(EW)=   0.05,Int= 1,PGA(SUM)=   1.32,PGV(SUM)=   0.06
+Stacode=WRL ,Staname=狶  ,Stalon=120.38,Stalat=23.90,Dist=  57.50,BAZ=155.15,PGA(V)=   0.90,PGA(NS)=   1.45,PGA(EW)=   1.99,PGV(V)=   0.03,PGV(NS)=   0.04,PGV(EW)=   0.05,Int= 1,PGA(SUM)=   1.76,PGV(SUM)=   0.06
+Stacode=WTC ,Staname=  ,Stalon=120.29,Stalat=23.86,Dist=  58.09,BAZ=145.10,PGA(V)=   0.41,PGA(NS)=   1.55,PGA(EW)=   1.33,PGV(V)=   0.01,PGV(NS)=   0.05,PGV(EW)=   0.05,Int= 1,PGA(SUM)=   1.36,PGV(SUM)=   0.07
+Stacode=TAI1,Staname=ッ眃  ,Stalon=120.24,Stalat=23.04,Dist=  58.32,BAZ= 41.63,PGA(V)=   0.51,PGA(NS)=   1.25,PGA(EW)=   0.76,PGV(V)=   0.02,PGV(NS)=   0.06,PGV(EW)=   0.04,Int= 1,PGA(SUM)=   1.35,PGV(SUM)=   0.07
+Stacode=WYL ,Staname=狶  ,Stalon=120.58,Stalat=23.96,Dist=  58.68,BAZ=176.52,PGA(V)=   0.53,PGA(NS)=   0.64,PGA(EW)=   0.90,PGV(V)=   0.02,PGV(NS)=   0.02,PGV(EW)=   0.02,Int= 1,PGA(SUM)=   0.93,PGV(SUM)=   0.03
+Stacode=SCK ,Staname=  ,Stalon=120.09,Stalat=23.15,Dist=  62.59,BAZ= 59.74,PGA(V)=   0.78,PGA(NS)=   2.63,PGA(EW)=   3.40,PGV(V)=   0.02,PGV(NS)=   0.08,PGV(EW)=   0.11,Int= 2,PGA(SUM)=   3.12,PGV(SUM)=   0.12
+Stacode=WCHH,Staname=裹てカ,Stalon=120.56,Stalat=24.08,Dist=  72.00,BAZ=175.40,PGA(V)=   0.78,PGA(NS)=   2.21,PGA(EW)=   1.84,PGV(V)=   0.02,PGV(NS)=   0.06,PGV(EW)=   0.05,Int= 1,PGA(SUM)=   2.17,PGV(SUM)=   0.06

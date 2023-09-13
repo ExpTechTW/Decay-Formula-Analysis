@@ -1,0 +1,11 @@
+Origin Time:2022/09/22 22:15:49
+Lon:121.27°E
+Lat:22.96°N
+Depth:2.8km
+Mag:4.0
+Stacode=EDH ,Staname=東河  ,Stalon=121.30,Stalat=22.97,Dist=   3.65,AZ= 58.62,PGA(V)=  25.40,PGA(NS)=  52.11,PGA(EW)=  50.68,PGV(V)=   0.89,PGV(NS)=   1.94,PGV(EW)=   1.63,Int= 4級,PGA(SUM)=  59.04,PGV(SUM)=   2.10
+Stacode=LONT,Staname=鹿野  ,Stalon=121.13,Stalat=22.91,Dist=  15.69,AZ=249.80,PGA(V)=   0.78,PGA(NS)=   1.07,PGA(EW)=   1.01,PGV(V)=   0.07,PGV(NS)=   0.22,PGV(EW)=   0.12,Int= 1級,PGA(SUM)=   1.15,PGV(SUM)=   0.24
+Stacode=ECS ,Staname=池上  ,Stalon=121.22,Stalat=23.10,Dist=  16.47,AZ=340.25,PGA(V)=   1.64,PGA(NS)=   2.83,PGA(EW)=   4.05,PGV(V)=   0.07,PGV(NS)=   0.19,PGV(EW)=   0.14,Int= 2級,PGA(SUM)=   3.84,PGV(SUM)=   0.21
+Stacode=CHK ,Staname=成功  ,Stalon=121.37,Stalat=23.10,Dist=  18.79,AZ= 32.88,PGA(V)=   0.95,PGA(NS)=   2.35,PGA(EW)=   2.88,PGV(V)=   0.06,PGV(NS)=   0.13,PGV(EW)=   0.13,Int= 2級,PGA(SUM)=   2.75,PGV(SUM)=   0.17
+Stacode=TTN ,Staname=臺東市,Stalon=121.15,Stalat=22.75,Dist=  25.56,AZ=208.44,PGA(V)=   0.34,PGA(NS)=   1.14,PGA(EW)=   1.06,PGV(V)=   0.06,PGV(NS)=   0.08,PGV(EW)=   0.21,Int= 1級,PGA(SUM)=   1.19,PGV(SUM)=   0.23
+Stacode=FULB,Staname=富里  ,Stalon=121.29,Stalat=23.20,Dist=  27.02,AZ=  4.44,PGA(V)=   0.28,PGA(NS)=   0.88,PGA(EW)=   0.74,PGV(V)=   0.04,PGV(NS)=   0.06,PGV(EW)=   0.07,Int= 1級,PGA(SUM)=   0.95,PGV(SUM)=   0.08

@@ -1,0 +1,17 @@
+Origin Time:2022/04/10 00:43:50
+Lon:121.03¢XE
+Lat:21.73¢XN
+Depth:30.2km
+Mag:5.0
+Stacode=SEB ,Staname=ÃZÆq»ó,Stalon=120.86,Stalat=21.90,Dist=  26.21,AZ=315.80,PGA(V)=   3.67,PGA(NS)=   7.86,PGA(EW)=   5.70,PGV(V)=   0.23,PGV(NS)=   0.51,PGV(EW)=   0.34,Int= 3¯Å,PGA(SUM)=   9.50,PGV(SUM)=   0.55
+Stacode=TWK1,Staname=¾Á¤B  ,Stalon=120.81,Stalat=21.94,Dist=  32.32,AZ=315.73,PGA(V)=   1.48,PGA(NS)=   4.14,PGA(EW)=   2.62,PGV(V)=   0.10,PGV(NS)=   0.20,PGV(EW)=   0.19,Int= 2¯Å,PGA(SUM)=   4.18,PGV(SUM)=   0.25
+Stacode=SMS ,Staname=º¡¦{  ,Stalon=120.84,Stalat=22.02,Dist=  37.84,AZ=327.82,PGA(V)=   2.67,PGA(NS)=   6.34,PGA(EW)=   6.42,PGV(V)=   0.11,PGV(NS)=   0.26,PGV(EW)=   0.29,Int= 3¯Å,PGA(SUM)=   8.44,PGV(SUM)=   0.37
+Stacode=SNW ,Staname=«nÆW  ,Stalon=120.75,Stalat=21.96,Dist=  38.63,AZ=310.94,PGA(V)=   3.34,PGA(NS)=   7.12,PGA(EW)=   5.75,PGV(V)=   0.16,PGV(NS)=   0.39,PGV(EW)=   0.34,Int= 2¯Å,PGA(SUM)=   6.93,PGV(SUM)=   0.41
+Stacode=HEN ,Staname=«í¬K  ,Stalon=120.75,Stalat=22.00,Dist=  42.24,AZ=315.61,PGA(V)=   2.11,PGA(NS)=   6.29,PGA(EW)=   6.02,PGV(V)=   0.14,PGV(NS)=   0.38,PGV(EW)=   0.30,Int= 2¯Å,PGA(SUM)=   7.46,PGV(SUM)=   0.38
+Stacode=SLIU,Staname=·à¤l  ,Stalon=120.80,Stalat=22.22,Dist=  58.85,AZ=335.87,PGA(V)=   0.89,PGA(NS)=   1.99,PGA(EW)=   2.59,PGV(V)=   0.05,PGV(NS)=   0.12,PGV(EW)=   0.23,Int= 2¯Å,PGA(SUM)=   2.85,PGV(SUM)=   0.25
+Stacode=LAY ,Staname=ÄõÀ¬  ,Stalon=121.56,Stalat=22.04,Dist=  64.06,AZ= 58.05,PGA(V)=   1.13,PGA(NS)=   4.41,PGA(EW)=   3.33,PGV(V)=   0.03,PGV(NS)=   0.16,PGV(EW)=   0.12,Int= 2¯Å,PGA(SUM)=   4.39,PGV(SUM)=   0.17
+Stacode=TAWH,Staname=¤jªZ  ,Stalon=120.89,Stalat=22.34,Dist=  69.01,AZ=347.54,PGA(V)=   1.19,PGA(NS)=   0.98,PGA(EW)=   0.85,PGV(V)=   0.04,PGV(NS)=   0.06,PGV(EW)=   0.05,Int= 1¯Å,PGA(SUM)=   1.03,PGV(SUM)=   0.07
+Stacode=EAS ,Staname=¹F¤¯  ,Stalon=120.86,Stalat=22.38,Dist=  74.31,AZ=345.89,PGA(V)=   1.02,PGA(NS)=   1.33,PGA(EW)=   0.91,PGV(V)=   0.06,PGV(NS)=   0.08,PGV(EW)=   0.10,Int= 1¯Å,PGA(SUM)=   1.40,PGV(SUM)=   0.10
+Stacode=SCZ ,Staname=¬K¤é  ,Stalon=120.63,Stalat=22.37,Dist=  82.13,AZ=329.51,PGA(V)=   0.42,PGA(NS)=   0.80,PGA(EW)=   0.94,PGV(V)=   0.06,PGV(NS)=   0.09,PGV(EW)=   0.06,Int= 1¯Å,PGA(SUM)=   1.04,PGV(SUM)=   0.11
+Stacode=SSP ,Staname=·s°ñ  ,Stalon=120.57,Stalat=22.48,Dist=  96.07,AZ=330.12,PGA(V)=   0.42,PGA(NS)=   1.26,PGA(EW)=   1.38,PGV(V)=   0.06,PGV(NS)=   0.13,PGV(EW)=   0.13,Int= 1¯Å,PGA(SUM)=   1.41,PGV(SUM)=   0.15
+Stacode=SCK ,Staname=¤CªÑ  ,Stalon=120.09,Stalat=23.15,Dist= 184.50,AZ=328.17,PGA(V)=   0.28,PGA(NS)=   0.91,PGA(EW)=   0.52,PGV(V)=   0.02,PGV(NS)=   0.03,PGV(EW)=   0.03,Int= 1¯Å,PGA(SUM)=   0.92,PGV(SUM)=   0.04

@@ -1,0 +1,6 @@
+Origin Time:2023/07/09 16:16:33
+Lon:121.70¢XE
+Lat:21.87¢XN
+Depth:23.9km
+Mag:4.5
+Stacode=LAY ,Staname=ÄõÀ¬  ,Stalon=121.56,Stalat=22.04,Dist=  23.81,BAZ=140.95,PGA(V)=  12.10,PGA(NS)=  32.48,PGA(EW)=  40.24,PGV(V)=   0.31,PGV(NS)=   1.06,PGV(EW)=   0.86,Int= 4¯Å,PGA(SUM)=  31.11,PGV(SUM)=   1.12
