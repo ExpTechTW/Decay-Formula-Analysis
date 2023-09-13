@@ -1,0 +1,8 @@
+Origin Time:2021/04/29 22:32:58
+Lon:121.70°E
+Lat:21.82°N
+Depth:30.0km
+Mag:4.7
+Stacode=LAY ,Staname=蘭嶼  ,Stalon=121.56,Stalat=22.04,Dist=  27.76,AZ=148.67,PGA(V)=  12.94,PGA(NS)=  38.14,PGA(EW)=  38.89,PGV(V)=   0.27,PGV(NS)=   1.29,PGV(EW)=   0.83,Int= 4級,PGA(SUM)=  41.84,PGV(SUM)=   1.31
+Stacode=SEB ,Staname=鵝鑾鼻,Stalon=120.86,Stalat=21.90,Dist=  87.50,AZ= 95.65,PGA(V)=   0.32,PGA(NS)=   0.65,PGA(EW)=   1.04,PGV(V)=   0.02,PGV(NS)=   0.04,PGV(EW)=   0.06,Int= 1級,PGA(SUM)=   1.06,PGV(SUM)=   0.06
+Stacode=SMS ,Staname=滿州  ,Stalon=120.84,Stalat=22.02,Dist=  91.56,AZ=103.80,PGA(V)=   0.31,PGA(NS)=   0.77,PGA(EW)=   0.92,PGV(V)=   0.01,PGV(NS)=   0.03,PGV(EW)=   0.03,Int= 1級,PGA(SUM)=   0.94,PGV(SUM)=   0.03

@@ -1,0 +1,12 @@
+Origin Time:2020/08/28 21:03:32
+Lon:120.96°E
+Lat:22.44°N
+Depth:19.9km
+Mag:4.1
+Stacode=EAS ,Staname=達仁  ,Stalon=120.86,Stalat=22.38,Dist=  12.09,AZ= 58.94,PGA(V)=  16.78,PGA(NS)=  17.09,PGA(EW)=   9.99,PGV(V)=   0.23,PGV(NS)=   0.22,PGV(EW)=   0.18,Int= 3級,PGA(SUM)=   9.86,PGV(SUM)=   0.26
+Stacode=TAWH,Staname=大武  ,Stalon=120.89,Stalat=22.34,Dist=  13.04,AZ= 33.12,PGA(V)=   5.12,PGA(NS)=  13.88,PGA(EW)=   8.03,PGV(V)=   0.08,PGV(NS)=   0.28,PGV(EW)=   0.23,Int= 3級,PGA(SUM)=   9.74,PGV(SUM)=   0.30
+Stacode=ECL ,Staname=太麻里,Stalon=120.96,Stalat=22.60,Dist=  17.47,AZ=181.69,PGA(V)=   2.17,PGA(NS)=   3.81,PGA(EW)=   2.86,PGV(V)=   0.04,PGV(NS)=   0.06,PGV(EW)=   0.06,Int= 2級,PGA(SUM)=   2.59,PGV(SUM)=   0.07
+Stacode=SSP ,Staname=新埤  ,Stalon=120.57,Stalat=22.48,Dist=  40.33,AZ= 97.12,PGA(V)=   0.55,PGA(NS)=   0.92,PGA(EW)=   1.15,PGV(V)=   0.03,PGV(NS)=   0.07,PGV(EW)=   0.11,Int= 1級,PGA(SUM)=   1.19,PGV(SUM)=   0.12
+Stacode=SMG ,Staname=瑪家  ,Stalon=120.64,Stalat=22.71,Dist=  43.65,AZ=132.65,PGA(V)=   0.36,PGA(NS)=   1.67,PGA(EW)=   0.86,PGV(V)=   0.02,PGV(NS)=   0.04,PGV(EW)=   0.02,Int= 1級,PGA(SUM)=   1.58,PGV(SUM)=   0.05
+Stacode=SMS ,Staname=滿州  ,Stalon=120.84,Stalat=22.02,Dist=  47.90,AZ= 14.96,PGA(V)=   0.27,PGA(NS)=   1.00,PGA(EW)=   0.73,PGV(V)=   0.01,PGV(NS)=   0.03,PGV(EW)=   0.02,Int= 1級,PGA(SUM)=   1.07,PGV(SUM)=   0.03
+Stacode=KAU ,Staname=高雄市,Stalon=120.32,Stalat=22.57,Dist=  67.47,AZ=102.12,PGA(V)=   0.28,PGA(NS)=   0.94,PGA(EW)=   0.71,PGV(V)=   0.01,PGV(NS)=   0.05,PGV(EW)=   0.05,Int= 1級,PGA(SUM)=   0.89,PGV(SUM)=   0.06

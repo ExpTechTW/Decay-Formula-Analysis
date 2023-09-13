@@ -1,0 +1,14 @@
+﻿Origin Time:2022/04/15 03:09:13
+Lon:121.50°E
+Lat:23.72°N
+Depth:6.3km
+Mag:4.1
+Stacode=EGC ,Staname=磯崎  ,Stalon=121.55,Stalat=23.71,Dist=   5.10,AZ=102.58,PGA(V)=  36.42,PGA(NS)=  46.89,PGA(EW)=  58.89,PGV(V)=   0.43,PGV(NS)=   1.64,PGV(EW)=   1.85,Int= 4級,PGA(SUM)=  66.02,PGV(SUM)=   2.42
+Stacode=EGFH,Staname=光復  ,Stalon=121.43,Stalat=23.67,Dist=   9.07,AZ=233.23,PGA(V)=  13.13,PGA(NS)=  13.86,PGA(EW)=  18.71,PGV(V)=   0.18,PGV(NS)=   0.24,PGV(EW)=   0.38,Int= 3級,PGA(SUM)=  15.50,PGV(SUM)=   0.42
+Stacode=SHUL,Staname=水璉  ,Stalon=121.56,Stalat=23.79,Dist=  10.11,AZ= 40.23,PGA(V)=  10.75,PGA(NS)=  23.90,PGA(EW)=  11.36,PGV(V)=   0.21,PGV(NS)=   0.63,PGV(EW)=   0.40,Int= 3級,PGA(SUM)=  18.74,PGV(SUM)=   0.63
+Stacode=ESL ,Staname=西林  ,Stalon=121.44,Stalat=23.81,Dist=  11.96,AZ=330.83,PGA(V)=   8.96,PGA(NS)=  25.34,PGA(EW)=  45.71,PGV(V)=   0.14,PGV(NS)=   0.32,PGV(EW)=   0.71,Int= 3級,PGA(SUM)=  16.08,PGV(SUM)=   0.71
+Stacode=EYL ,Staname=鹽寮  ,Stalon=121.60,Stalat=23.90,Dist=  23.12,AZ= 27.09,PGA(V)=   0.87,PGA(NS)=   2.35,PGA(EW)=   2.15,PGV(V)=   0.04,PGV(NS)=   0.07,PGV(EW)=   0.10,Int= 1級,PGA(SUM)=   2.33,PGV(SUM)=   0.10
+Stacode=ETM ,Staname=銅門  ,Stalon=121.49,Stalat=23.97,Dist=  27.44,AZ=358.75,PGA(V)=   2.81,PGA(NS)=   2.70,PGA(EW)=   3.25,PGV(V)=   0.04,PGV(NS)=   0.06,PGV(EW)=   0.06,Int= 1級,PGA(SUM)=   2.08,PGV(SUM)=   0.07
+Stacode=HWA ,Staname=花蓮市,Stalon=121.61,Stalat=23.98,Dist=  30.80,AZ= 22.32,PGA(V)=   0.68,PGA(NS)=   1.45,PGA(EW)=   1.61,PGV(V)=   0.04,PGV(NS)=   0.06,PGV(EW)=   0.10,Int= 1級,PGA(SUM)=   1.71,PGV(SUM)=   0.10
+Stacode=OWD ,Staname=奧萬大,Stalon=121.18,Stalat=23.95,Dist=  42.05,AZ=308.56,PGA(V)=   0.98,PGA(NS)=   1.26,PGA(EW)=   1.77,PGV(V)=   0.03,PGV(NS)=   0.04,PGV(EW)=   0.05,Int= 1級,PGA(SUM)=   1.82,PGV(SUM)=   0.06
+Stacode=ETLH,Staname=西寶  ,Stalon=121.48,Stalat=24.21,Dist=  54.18,AZ=358.18,PGA(V)=   0.90,PGA(NS)=   1.35,PGA(EW)=   1.40,PGV(V)=   0.02,PGV(NS)=   0.05,PGV(EW)=   0.04,Int= 1級,PGA(SUM)=   1.39,PGV(SUM)=   0.05

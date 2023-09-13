@@ -1,0 +1,15 @@
+Origin Time:2021/08/06 19:40:15
+Lon:121.29°E
+Lat:23.16°N
+Depth:6.7km
+Mag:4.2
+Stacode=FULB,Staname=富里  ,Stalon=121.29,Stalat=23.20,Dist=   4.21,AZ=184.04,PGA(V)=  10.06,PGA(NS)=  25.77,PGA(EW)=  38.27,PGV(V)=   0.47,PGV(NS)=   0.86,PGV(EW)=   1.54,Int= 4級,PGA(SUM)=  38.67,PGV(SUM)=   1.79
+Stacode=EHD ,Staname=海端  ,Stalon=121.21,Stalat=23.15,Dist=   8.79,AZ= 81.40,PGA(V)=  13.09,PGA(NS)=  21.05,PGA(EW)=  28.01,PGV(V)=   0.28,PGV(NS)=   0.47,PGV(EW)=   0.54,Int= 3級,PGA(SUM)=  20.15,PGV(SUM)=   0.58
+Stacode=ECS ,Staname=池上  ,Stalon=121.22,Stalat=23.10,Dist=  10.32,AZ= 45.45,PGA(V)=   8.52,PGA(NS)=  15.23,PGA(EW)=   9.01,PGV(V)=   0.21,PGV(NS)=   0.47,PGV(EW)=   0.33,Int= 3級,PGA(SUM)=  16.71,PGV(SUM)=   0.49
+Stacode=CHK ,Staname=成功  ,Stalon=121.37,Stalat=23.10,Dist=  10.91,AZ=309.66,PGA(V)=  11.46,PGA(NS)=  25.20,PGA(EW)=  33.91,PGV(V)=   0.24,PGV(NS)=   0.59,PGV(EW)=   0.91,Int= 4級,PGA(SUM)=  34.80,PGV(SUM)=   1.03
+Stacode=EYUL,Staname=玉里  ,Stalon=121.32,Stalat=23.35,Dist=  20.86,AZ=187.92,PGA(V)=   1.04,PGA(NS)=   1.46,PGA(EW)=   1.23,PGV(V)=   0.04,PGV(NS)=   0.05,PGV(EW)=   0.07,Int= 1級,PGA(SUM)=   1.42,PGV(SUM)=   0.07
+Stacode=EDH ,Staname=東河  ,Stalon=121.30,Stalat=22.97,Dist=  20.88,AZ=356.37,PGA(V)=   1.53,PGA(NS)=   2.11,PGA(EW)=   2.28,PGV(V)=   0.04,PGV(NS)=   0.07,PGV(EW)=   0.07,Int= 1級,PGA(SUM)=   1.96,PGV(SUM)=   0.09
+Stacode=ECB ,Staname=長濱  ,Stalon=121.45,Stalat=23.32,Dist=  23.79,AZ=223.56,PGA(V)=   0.94,PGA(NS)=   1.92,PGA(EW)=   1.01,PGV(V)=   0.03,PGV(NS)=   0.06,PGV(EW)=   0.04,Int= 1級,PGA(SUM)=   1.77,PGV(SUM)=   0.06
+Stacode=ELD ,Staname=利稻  ,Stalon=121.03,Stalat=23.19,Dist=  27.39,AZ= 96.14,PGA(V)=   2.86,PGA(NS)=   2.76,PGA(EW)=   2.33,PGV(V)=   0.07,PGV(NS)=   0.05,PGV(EW)=   0.05,Int= 2級,PGA(SUM)=   3.35,PGV(SUM)=   0.09
+Stacode=LONT,Staname=鹿野  ,Stalon=121.13,Stalat=22.91,Dist=  32.64,AZ= 30.38,PGA(V)=   0.47,PGA(NS)=   0.53,PGA(EW)=   0.83,PGV(V)=   0.02,PGV(NS)=   0.04,PGV(EW)=   0.03,Int= 1級,PGA(SUM)=   0.86,PGV(SUM)=   0.04
+Stacode=ALS ,Staname=阿里山,Stalon=120.81,Stalat=23.51,Dist=  62.19,AZ=128.25,PGA(V)=   0.21,PGA(NS)=   0.83,PGA(EW)=   0.63,PGV(V)=   0.01,PGV(NS)=   0.02,PGV(EW)=   0.02,Int= 1級,PGA(SUM)=   0.92,PGV(SUM)=   0.03

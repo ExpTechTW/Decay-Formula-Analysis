@@ -1,0 +1,16 @@
+﻿Origin Time:2022/05/12 22:47:10
+Lon:121.51°E
+Lat:23.67°N
+Depth:5.0km
+Mag:4.3
+Stacode=EGC ,Staname=磯崎  ,Stalon=121.55,Stalat=23.71,Dist=   5.97,AZ= 42.19,PGA(V)=  18.88,PGA(NS)=  31.31,PGA(EW)=  39.99,PGV(V)=   0.30,PGV(NS)=   0.62,PGV(EW)=   1.03,Int= 4級,PGA(SUM)=  29.27,PGV(SUM)=   1.12
+Stacode=EGFH,Staname=光復  ,Stalon=121.43,Stalat=23.67,Dist=   8.24,AZ=270.74,PGA(V)=  19.06,PGA(NS)=  18.51,PGA(EW)=  16.70,PGV(V)=   0.36,PGV(NS)=   0.34,PGV(EW)=   0.54,Int= 3級,PGA(SUM)=  21.00,PGV(SUM)=   0.59
+Stacode=SHUL,Staname=水璉  ,Stalon=121.56,Stalat=23.79,Dist=  14.37,AZ= 22.76,PGA(V)=   2.42,PGA(NS)=   4.66,PGA(EW)=   4.59,PGV(V)=   0.09,PGV(NS)=   0.20,PGV(EW)=   0.27,Int= 2級,PGA(SUM)=   5.31,PGV(SUM)=   0.29
+Stacode=ESL ,Staname=西林  ,Stalon=121.44,Stalat=23.81,Dist=  17.36,AZ=336.96,PGA(V)=   2.44,PGA(NS)=   4.30,PGA(EW)=   4.25,PGV(V)=   0.07,PGV(NS)=   0.08,PGV(EW)=   0.11,Int= 2級,PGA(SUM)=   3.80,PGV(SUM)=   0.13
+Stacode=EHY ,Staname=紅葉  ,Stalon=121.33,Stalat=23.50,Dist=  25.71,AZ=225.04,PGA(V)=   1.10,PGA(NS)=   2.03,PGA(EW)=   1.74,PGV(V)=   0.03,PGV(NS)=   0.06,PGV(EW)=   0.05,Int= 1級,PGA(SUM)=   2.01,PGV(SUM)=   0.07
+Stacode=EYL ,Staname=鹽寮  ,Stalon=121.60,Stalat=23.90,Dist=  27.82,AZ= 20.11,PGA(V)=   0.83,PGA(NS)=   2.25,PGA(EW)=   1.57,PGV(V)=   0.03,PGV(NS)=   0.10,PGV(EW)=   0.07,Int= 1級,PGA(SUM)=   2.23,PGV(SUM)=   0.11
+Stacode=ETM ,Staname=銅門  ,Stalon=121.49,Stalat=23.97,Dist=  33.00,AZ=357.28,PGA(V)=   0.88,PGA(NS)=   1.00,PGA(EW)=   1.33,PGV(V)=   0.02,PGV(NS)=   0.04,PGV(EW)=   0.05,Int= 1級,PGA(SUM)=   1.12,PGV(SUM)=   0.05
+Stacode=HWA ,Staname=花蓮市,Stalon=121.61,Stalat=23.98,Dist=  35.68,AZ= 17.50,PGA(V)=   0.63,PGA(NS)=   1.53,PGA(EW)=   1.46,PGV(V)=   0.03,PGV(NS)=   0.06,PGV(EW)=   0.09,Int= 1級,PGA(SUM)=   1.68,PGV(SUM)=   0.09
+Stacode=OWD ,Staname=奧萬大,Stalon=121.18,Stalat=23.95,Dist=  46.41,AZ=313.16,PGA(V)=   0.57,PGA(NS)=   0.66,PGA(EW)=   0.93,PGV(V)=   0.01,PGV(NS)=   0.02,PGV(EW)=   0.02,Int= 1級,PGA(SUM)=   0.84,PGV(SUM)=   0.03
+Stacode=YUS ,Staname=玉山  ,Stalon=120.96,Stalat=23.49,Dist=  59.50,AZ=250.37,PGA(V)=   0.35,PGA(NS)=   0.61,PGA(EW)=   1.35,PGV(V)=   0.01,PGV(NS)=   0.03,PGV(EW)=   0.06,Int= 1級,PGA(SUM)=   1.37,PGV(SUM)=   0.06
+Stacode=ETLH,Staname=西寶  ,Stalon=121.48,Stalat=24.21,Dist=  59.75,AZ=357.43,PGA(V)=   0.53,PGA(NS)=   1.28,PGA(EW)=   0.70,PGV(V)=   0.02,PGV(NS)=   0.05,PGV(EW)=   0.03,Int= 1級,PGA(SUM)=   1.26,PGV(SUM)=   0.05

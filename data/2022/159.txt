@@ -1,0 +1,17 @@
+﻿Origin Time:2022/10/27 17:35:51
+Lon:121.18°E
+Lat:23.13°N
+Depth:14.2km
+Mag:4.2
+Stacode=EHD ,Staname=海端  ,Stalon=121.21,Stalat=23.15,Dist=   3.32,AZ= 55.57,PGA(V)=   7.44,PGA(NS)=  16.46,PGA(EW)=   9.66,PGV(V)=   0.17,PGV(NS)=   0.50,PGV(EW)=   0.25,Int= 3級,PGA(SUM)=  15.53,PGV(SUM)=   0.54
+Stacode=ECS ,Staname=池上  ,Stalon=121.22,Stalat=23.10,Dist=   5.75,AZ=134.74,PGA(V)=   6.80,PGA(NS)=   8.38,PGA(EW)=   7.82,PGV(V)=   0.21,PGV(NS)=   0.28,PGV(EW)=   0.28,Int= 3級,PGA(SUM)=   9.79,PGV(SUM)=   0.35
+Stacode=FULB,Staname=富里  ,Stalon=121.29,Stalat=23.20,Dist=  13.87,AZ= 57.77,PGA(V)=   3.43,PGA(NS)=   5.62,PGA(EW)=   6.08,PGV(V)=   0.09,PGV(NS)=   0.18,PGV(EW)=   0.18,Int= 2級,PGA(SUM)=   7.30,PGV(SUM)=   0.22
+Stacode=CHK ,Staname=成功  ,Stalon=121.37,Stalat=23.10,Dist=  20.19,AZ=100.76,PGA(V)=   2.20,PGA(NS)=   5.70,PGA(EW)=   8.64,PGV(V)=   0.07,PGV(NS)=   0.19,PGV(EW)=   0.20,Int= 2級,PGA(SUM)=   7.73,PGV(SUM)=   0.20
+Stacode=EDH ,Staname=東河  ,Stalon=121.30,Stalat=22.97,Dist=  21.78,AZ=144.12,PGA(V)=   1.06,PGA(NS)=   1.52,PGA(EW)=   1.87,PGV(V)=   0.03,PGV(NS)=   0.05,PGV(EW)=   0.06,Int= 1級,PGA(SUM)=   1.85,PGV(SUM)=   0.06
+Stacode=LONT,Staname=鹿野  ,Stalon=121.13,Stalat=22.91,Dist=  25.47,AZ=191.47,PGA(V)=   1.16,PGA(NS)=   1.64,PGA(EW)=   2.44,PGV(V)=   0.03,PGV(NS)=   0.05,PGV(EW)=   0.11,Int= 2級,PGA(SUM)=   2.60,PGV(SUM)=   0.12
+Stacode=EYUL,Staname=玉里  ,Stalon=121.32,Stalat=23.35,Dist=  27.81,AZ= 30.95,PGA(V)=   1.16,PGA(NS)=   2.13,PGA(EW)=   1.41,PGV(V)=   0.02,PGV(NS)=   0.05,PGV(EW)=   0.04,Int= 1級,PGA(SUM)=   2.03,PGV(SUM)=   0.05
+Stacode=TWG ,Staname=卑南  ,Stalon=121.08,Stalat=22.82,Dist=  36.25,AZ=196.33,PGA(V)=   0.32,PGA(NS)=   0.60,PGA(EW)=   0.77,PGV(V)=   0.01,PGV(NS)=   0.02,PGV(EW)=   0.03,Int= 1級,PGA(SUM)=   0.82,PGV(SUM)=   0.04
+Stacode=STYH,Staname=桃源  ,Stalon=120.78,Stalat=23.18,Dist=  41.11,AZ=277.36,PGA(V)=   1.27,PGA(NS)=   2.44,PGA(EW)=   1.86,PGV(V)=   0.03,PGV(NS)=   0.05,PGV(EW)=   0.05,Int= 1級,PGA(SUM)=   2.38,PGV(SUM)=   0.07
+Stacode=EHY ,Staname=紅葉  ,Stalon=121.33,Stalat=23.50,Dist=  43.98,AZ= 20.50,PGA(V)=   1.03,PGA(NS)=   2.18,PGA(EW)=   4.23,PGV(V)=   0.03,PGV(NS)=   0.05,PGV(EW)=   0.07,Int= 2級,PGA(SUM)=   2.67,PGV(SUM)=   0.07
+Stacode=YUS ,Staname=玉山  ,Stalon=120.96,Stalat=23.49,Dist=  45.35,AZ=330.22,PGA(V)=   1.09,PGA(NS)=   2.94,PGA(EW)=   2.64,PGV(V)=   0.03,PGV(NS)=   0.13,PGV(EW)=   0.11,Int= 2級,PGA(SUM)=   3.26,PGV(SUM)=   0.13
+Stacode=WCKO,Staname=番路  ,Stalon=120.60,Stalat=23.44,Dist=  67.89,AZ=300.02,PGA(V)=   0.30,PGA(NS)=   0.74,PGA(EW)=   0.96,PGV(V)=   0.01,PGV(NS)=   0.04,PGV(EW)=   0.05,Int= 1級,PGA(SUM)=   1.03,PGV(SUM)=   0.05

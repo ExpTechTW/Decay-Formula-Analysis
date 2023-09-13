@@ -1,0 +1,15 @@
+﻿Origin Time:2023/04/24 21:35:38
+Lon:121.15°E
+Lat:22.80°N
+Depth:5.8km
+Mag:4.4
+Stacode=TTN ,Staname=臺東市,Stalon=121.15,Stalat=22.75,Dist=   5.28,BAZ=359.56,PGA(V)=  19.82,PGA(NS)=  78.12,PGA(EW)=  50.20,PGV(V)=   0.54,PGV(NS)=   2.52,PGV(EW)=   2.16,Int= 4級,PGA(SUM)=  79.07,PGV(SUM)=   2.66
+Stacode=TWG ,Staname=卑南  ,Stalon=121.08,Stalat=22.82,Dist=   7.89,BAZ=104.27,PGA(V)=   3.43,PGA(NS)=   8.22,PGA(EW)=   5.69,PGV(V)=   0.11,PGV(NS)=   0.29,PGV(EW)=   0.21,Int= 2級,PGA(SUM)=   5.96,PGV(SUM)=   0.32
+Stacode=LONT,Staname=鹿野  ,Stalon=121.13,Stalat=22.91,Dist=  12.06,BAZ=167.91,PGA(V)=   7.38,PGA(NS)=   3.91,PGA(EW)=   5.17,PGV(V)=   0.16,PGV(NS)=   0.31,PGV(EW)=   0.29,Int= 2級,PGA(SUM)=   5.80,PGV(SUM)=   0.33
+Stacode=EDH ,Staname=東河  ,Stalon=121.30,Stalat=22.97,Dist=  24.51,BAZ=218.73,PGA(V)=   3.94,PGA(NS)=   5.98,PGA(EW)=   7.51,PGV(V)=   0.13,PGV(NS)=   0.24,PGV(EW)=   0.22,Int= 2級,PGA(SUM)=   7.01,PGV(SUM)=   0.25
+Stacode=ECL ,Staname=太麻里,Stalon=120.96,Stalat=22.60,Dist=  30.05,BAZ= 41.22,PGA(V)=   0.66,PGA(NS)=   0.79,PGA(EW)=   0.79,PGV(V)=   0.02,PGV(NS)=   0.03,PGV(EW)=   0.04,Int= 1級,PGA(SUM)=   0.82,PGV(SUM)=   0.04
+Stacode=ECS ,Staname=池上  ,Stalon=121.22,Stalat=23.10,Dist=  33.37,BAZ=191.47,PGA(V)=   1.08,PGA(NS)=   1.28,PGA(EW)=   1.34,PGV(V)=   0.07,PGV(NS)=   0.10,PGV(EW)=   0.13,Int= 1級,PGA(SUM)=   1.52,PGV(SUM)=   0.13
+Stacode=LDU ,Staname=綠島  ,Stalon=121.47,Stalat=22.67,Dist=  35.23,BAZ=293.44,PGA(V)=   0.77,PGA(NS)=   1.14,PGA(EW)=   1.38,PGV(V)=   0.04,PGV(NS)=   0.08,PGV(EW)=   0.09,Int= 1級,PGA(SUM)=   1.60,PGV(SUM)=   0.09
+Stacode=CHK ,Staname=成功  ,Stalon=121.37,Stalat=23.10,Dist=  39.89,BAZ=214.19,PGA(V)=   0.87,PGA(NS)=   2.26,PGA(EW)=   2.47,PGV(V)=   0.04,PGV(NS)=   0.08,PGV(EW)=   0.14,Int= 2級,PGA(SUM)=   2.60,PGV(SUM)=   0.15
+Stacode=FULB,Staname=富里  ,Stalon=121.29,Stalat=23.20,Dist=  46.43,BAZ=197.92,PGA(V)=   0.39,PGA(NS)=   0.68,PGA(EW)=   0.87,PGV(V)=   0.02,PGV(NS)=   0.05,PGV(EW)=   0.05,Int= 1級,PGA(SUM)=   0.91,PGV(SUM)=   0.05
+Stacode=SMS ,Staname=滿州  ,Stalon=120.84,Stalat=22.02,Dist=  92.27,BAZ= 20.73,PGA(V)=   0.49,PGA(NS)=   1.00,PGA(EW)=   1.22,PGV(V)=   0.02,PGV(NS)=   0.03,PGV(EW)=   0.03,Int= 1級,PGA(SUM)=   1.21,PGV(SUM)=   0.03

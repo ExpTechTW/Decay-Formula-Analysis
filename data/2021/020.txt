@@ -1,0 +1,13 @@
+Origin Time:2021/03/09 09:07:09
+Lon:121.52°E
+Lat:21.88°N
+Depth:23.9km
+Mag:4.8
+Stacode=LAY ,Staname=蘭嶼  ,Stalon=121.56,Stalat=22.04,Dist=  18.27,AZ=193.43,PGA(V)=  15.90,PGA(NS)=  64.29,PGA(EW)=  48.72,PGV(V)=   0.42,PGV(NS)=   1.97,PGV(EW)=   1.43,Int= 4級,PGA(SUM)=  60.44,PGV(SUM)=   2.08
+Stacode=SEB ,Staname=鵝鑾鼻,Stalon=120.86,Stalat=21.90,Dist=  68.43,AZ= 92.23,PGA(V)=   0.36,PGA(NS)=   1.04,PGA(EW)=   1.21,PGV(V)=   0.03,PGV(NS)=   0.05,PGV(EW)=   0.08,Int= 1級,PGA(SUM)=   1.27,PGV(SUM)=   0.08
+Stacode=SMS ,Staname=滿州  ,Stalon=120.84,Stalat=22.02,Dist=  72.00,AZ=102.75,PGA(V)=   0.76,PGA(NS)=   1.66,PGA(EW)=   1.83,PGV(V)=   0.02,PGV(NS)=   0.05,PGV(EW)=   0.06,Int= 1級,PGA(SUM)=   1.88,PGV(SUM)=   0.06
+Stacode=SNW ,Staname=南灣  ,Stalon=120.75,Stalat=21.96,Dist=  79.80,AZ= 96.61,PGA(V)=   1.56,PGA(NS)=   1.06,PGA(EW)=   1.05,PGV(V)=   0.08,PGV(NS)=   0.05,PGV(EW)=   0.04,Int= 1級,PGA(SUM)=   1.49,PGV(SUM)=   0.09
+Stacode=TAWH,Staname=大武  ,Stalon=120.89,Stalat=22.34,Dist=  82.70,AZ=128.30,PGA(V)=   0.58,PGA(NS)=   1.19,PGA(EW)=   1.02,PGV(V)=   0.02,PGV(NS)=   0.03,PGV(EW)=   0.04,Int= 1級,PGA(SUM)=   1.35,PGV(SUM)=   0.05
+Stacode=SLIU,Staname=獅子  ,Stalon=120.80,Stalat=22.22,Dist=  83.08,AZ=116.89,PGA(V)=   0.61,PGA(NS)=   0.81,PGA(EW)=   0.94,PGV(V)=   0.02,PGV(NS)=   0.02,PGV(EW)=   0.04,Int= 1級,PGA(SUM)=   0.94,PGV(SUM)=   0.04
+Stacode=EAS ,Staname=達仁  ,Stalon=120.86,Stalat=22.38,Dist=  88.16,AZ=129.38,PGA(V)=   0.70,PGA(NS)=   0.70,PGA(EW)=   0.84,PGV(V)=   0.02,PGV(NS)=   0.03,PGV(EW)=   0.03,Int= 1級,PGA(SUM)=   0.91,PGV(SUM)=   0.03
+Stacode=LDU ,Staname=綠島  ,Stalon=121.47,Stalat=22.67,Dist=  88.33,AZ=176.81,PGA(V)=   0.38,PGA(NS)=   0.68,PGA(EW)=   0.89,PGV(V)=   0.01,PGV(NS)=   0.03,PGV(EW)=   0.03,Int= 1級,PGA(SUM)=   0.83,PGV(SUM)=   0.03
